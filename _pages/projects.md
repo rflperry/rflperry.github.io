@@ -7,4 +7,6 @@ author_profile: true
 
 ##Projects
 
-* [Yelp Dataset Challenge 2018](https://rflperry.github.io/yelp_challenge2018/)
+* [https://rflperry.github.io/yelp_challenge2018/](Yelp Dataset Challenge 2018)
+
+Done as part of DTU class project
