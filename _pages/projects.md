@@ -2,8 +2,11 @@
 layout: archive
 title: "Projects"
 permalink: /projects/
-author_profile: true
 ---
+
+{% include base_path %}
 
 
 https://rflperry.github.io/yelp_challenge2018/
+
+Test test test
