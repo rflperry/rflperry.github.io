@@ -13,7 +13,7 @@ name                     : &name "anchor test name"
 description              : &description "personal description"
 url                      : &url https://rflperry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rflperry.github.io"
+repository               : "rflperry"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "https://twitter.com/perry_ronan"
+  username               : *"perry_ronan"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ronan Perry"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate Applied Math and Biomedical Engineering Student at The Johns Hopkins University"
+  bio              : "Applied Math and Biomedical Engineering Undergraduate at The Johns Hopkins University"
   location         : "Baltimore, MD"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -95,12 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : &url
+  github           : "rflperry"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "www.linkedin.com/in/ronan-perry-559bb4123"
+  linkedin         : "ronan-perry-559bb4123"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
