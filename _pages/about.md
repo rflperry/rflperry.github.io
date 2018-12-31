@@ -2,6 +2,7 @@
 permalink: /
 title: "About"
 excerpt: "About me"
+layout: archive
 redirect_from: 
   - /about/
   - /about.html
