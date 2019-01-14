@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 ## Education
-* B.S. in Applied Mathematics, B.S. in Biomedical Engineering, The Johns Hopkins University, (May 2020 expected)
+* B.S. in Applied Mathematics & Statistics, The Johns Hopkins University, May 2020 (expected)
+* B.S. in Biomedical Engineering, The Johns Hopkins University, May 2020 (expected)
 	* Study abroad experience, Danmarks Tekniske Universitet, Fall 2018
 
 ## Work Experience
@@ -25,4 +26,6 @@ redirect_from:
 * MATLAB
 * Java
 * R
+* Bash
+* Perl
 
