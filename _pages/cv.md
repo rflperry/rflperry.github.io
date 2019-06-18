@@ -17,15 +17,17 @@ redirect_from:
 * URSA Space Systems, Software Intern, Summer 2016
 
 ## Research Experience
+* Johns Hopkins University, NeuroData Lab, Current
 * Ecole Polytechnique Federale de Lausanne, MIP:Lab, Summer 2018
 * Johns Hopkins University School of Medicine, Popel Lab, Fall 2017
 * Boyce Thompson Institute, Fei Lab, Summer 2015
 
 ## Skills
 * Python
+* R
+* Github
+* Agile development
 * MATLAB
 * Java
-* R
 * Bash
-* Perl
 

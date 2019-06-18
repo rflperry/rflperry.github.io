@@ -6,6 +6,14 @@ author_profile: true
 
 ---
 
-* [Yelp Dataset Challenge 2018](https://rflperry.github.io/yelp_challenge2018/)
+## 2019
+* [SOLVING THE SHORTEST COMMON
+SUPERSTRING PROBLEM VIA DEEP REINFORCEMENT
+LEARNING](/files/dldo_scsp_6-18.pdf)
+[Github repository](https://github.com/rflperry/dl-scsp)
 
-* [Network and sentiment analysis of US House of Representatives tweets](https://rflperry.github.io/socialgraphs2018/)
+* [Linking the Caenorhabditis elegans nervous system
+neural connections and developmental history](/files/C__elegans_lineages.pdf)
+
+## 2018
+* [Yelp Dataset Challenge 2018](https://rflperry.github.io/yelp_challenge2018/)
