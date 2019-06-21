@@ -6,13 +6,8 @@ tags:
   - bayesian
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
+Predictive Analysis and Circuit Board Failues
 ======
 
-You can have many headings
-======
+Recently a friend came to me with a question. He had been working on testing *expensive* circuit boards and of the ten he tested, two didn't work. He was wondering the odds of future ones working. This is a question of predictive analysis. Assuming that the boards work or don't work according to a binomial distribution, the probability of success $$p = \frac{8}{10}$$, trivially (and can be shown to be the maximum likelihood estimate). So, the probability of the next board working is simply $$\frac{8}{10}$$ but asking questions about more than the next board is a bit more tricky.
 
-Aren't headings cool?
-------
