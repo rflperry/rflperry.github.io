@@ -5,7 +5,7 @@ permalink: /posts/
 author_profile: true
 ---
 
-## [Predictive Analysis and Electronics Board Failures](/predictive-analysis/)
+## [Predictive Analysis and Electronics Board Failures](https://rflperry.github.io/posts/predictive-analysis/)
 Bayesian inference and how to better incorporate uncertainty into your estimates.
 
 ## [Choosing cocktails with network science](https://nbviewer.jupyter.org/github/rflperry/recipes/blob/master/analysis.ipynb)
