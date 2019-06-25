@@ -11,10 +11,21 @@ Predictive Analysis and Circuit Board Failures
 
 Recently a friend came to me with a question. He had been working on testing *expensive* circuit boards and of the ten he tested, two didn't work. His question for me was what was the probability of future ones working. This turns out to be a question of predictive analysis. Assuming that the boards work or don't work according to a binomial distribution (i.e. a coin toss), the probability of success $$\hat\theta = \frac{8}{10}$$ is the maximum likelihood estimate. So, the probability of the next board working is simply $$\frac{8}{10}$$. However, asking questions about more than the next board is a bit more tricky. Given our observations $$\mathbf{Z}$$, what is the probability of a set of new observations $$z^{new}$$?
 
-
 In the simple maximum likelihood approach, we have estimated our parameter $$\hat\theta = \frac{8}{10}$$ and so simply calculate the probability of new observations as $$Pr(z^{new} \mid \mathbf{Z}) = Pr(z^{new} \mid \hat\theta)$$. However, this fails to take into account our uncertainty of our estimate for $$\theta$$.
 
-In a Bayesian setting, however, we do take into account the uncertainty of our parameter. By Bayes Theorem, we have the equation for the posterior distribution $$Pr(\theta) \mid \mathbf{Z}) = \frac{Pr(\mathbf{Z} \mid \theta) Pr(\theta)}{Pr(\mathbf{Z})} =  \frac{Pr(\mathbf{Z} \mid \theta) Pr(\theta)}{\int Pr(\mathbf{Z} \mid \theta^\prime) Pr(\theta^\prime) d\theta^\prime} $$ which tells us the likelihood of our parameter given our data. This is factored into our predictive distribution $$Pr(z^{new} \mid \mathbf{Z}) = \int Pr(z^{new} \mid \theta) Pr(\theta \mid \mathbf{Z}) d\theta$$. First, since the distribution of our observations is binomial, the conditional likelihood of *s* successes and *f* failures is 
+In a Bayesian setting, however, we do take into account the uncertainty of our parameter. By Bayes Theorem, we have the equation for the posterior distribution 
+
+$$
+Pr(\theta) \mid \mathbf{Z}) = \frac{Pr(\mathbf{Z} \mid \theta) Pr(\theta)}{Pr(\mathbf{Z})} =  \frac{Pr(\mathbf{Z} \mid \theta) Pr(\theta)}{\int Pr(\mathbf{Z} \mid \theta^\prime) Pr(\theta^\prime) d\theta^\prime}
+$$
+
+which tells us the likelihood of our parameter given our data. This is factored into our predictive distribution 
+
+$$
+Pr(z^{new} \mid \mathbf{Z}) = \int Pr(z^{new} \mid \theta) Pr(\theta \mid \mathbf{Z}) d\theta
+$$. 
+
+First, since the distribution of our observations is binomial, the conditional likelihood of *s* successes and *f* failures is 
 
 $$
 Pr (s,f \mid \theta) = {s + f \choose s} \theta^{s} (1-\theta)^{f}
