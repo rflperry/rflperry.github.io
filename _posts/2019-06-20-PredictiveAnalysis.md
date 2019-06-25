@@ -6,7 +6,7 @@ tags:
   - bayesian
 ---
 
-Predictive Analysis and Circuit Board Failues
+Predictive Analysis and Circuit Board Failures
 ======
 
 Recently a friend came to me with a question. He had been working on testing *expensive* circuit boards and of the ten he tested, two didn't work. His question for me was what was the probability of future ones working. This turns out to be a question of predictive analysis. Assuming that the boards work or don't work according to a binomial distribution (i.e. a coin toss), the probability of success $$\theta = \frac{8}{10}$$ is the maximum likelihood estimate. So, the probability of the next board working is simply $$\frac{8}{10}$$. However, asking questions about more than the next board is a bit more tricky. Given our observations $$\mathbf{Z}$$, what is the probability of a set of new observations $$z^{new}$$?
