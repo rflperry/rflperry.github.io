@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Recitation Section"
 permalink: /teaching/2019-fall-stats
 venue: "Johns Hopkins University, Applied Mathematics and Statistics"
-date: Fall, 2019
+date: 2019-09-03
 location: "Baltimore, MD"
 ---
 
