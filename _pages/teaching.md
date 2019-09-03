@@ -4,6 +4,8 @@ permalink: /teaching/
 title: "Teaching Activities"
 author_profile: true
 ---
+### [553.430 Fall 2019: Introduction to Statistics Section Notes](/_teaching/2019-fall-stats.md)
+
 ### [Generalized Canonical Correlation Analysis and applications to fMRI data](/files/GCCA_presentation.pdf)
 
 Presented to the Neurodata Lab group during our weekly presentation. My research at that time concerned this multiview learning method and so I coverd this method and a paper which used it in an interesting way, potentially relevant to the other lab members.
