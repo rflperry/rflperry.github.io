@@ -4,7 +4,7 @@ permalink: /teaching/
 title: "Teaching Activities"
 author_profile: true
 ---
-### [553.430 Fall 2019: Introduction to Statistics Section Notes](/files/1-Bivariate_Normal.md)
+### [553.430 Fall 2019: Introduction to Statistics Section Notes](/_teaching/2019-fall-stats.md)
 
 ### [Generalized Canonical Correlation Analysis and applications to fMRI data](/files/GCCA_presentation.pdf)
 
