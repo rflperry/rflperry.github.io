@@ -1,5 +1,6 @@
 ---
 title: "553.430 Introduction to Statistics"
+layout: archive
 collection: teaching
 permalink: /teaching/2019-fall-stats/1-Bivariate_Normal
 date: 2019-09-03
