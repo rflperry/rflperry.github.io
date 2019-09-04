@@ -1,7 +1,6 @@
 ---
 title: "553.430 Introduction to Statistics"
 collection: teaching
-type: "Undergraduate Recitation Section"
 permalink: /teaching/2019-fall-stats
 venue: "Johns Hopkins University, Applied Mathematics and Statistics"
 date: 2019-09-03
