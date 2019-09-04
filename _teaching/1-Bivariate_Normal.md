@@ -1,3 +1,12 @@
+---
+title: "553.430 Introduction to Statistics"
+collection: teaching
+type: "Undergraduate Recitation Section"
+permalink: /teaching/2019-fall-stats/1-Bivariate_Normal
+venue: "Johns Hopkins University, Applied Mathematics and Statistics"
+date: 2019-09-03
+location: "Baltimore, MD"
+---
 # Section 1, 9/2/19
 
 ## Multivariate Change of Basis
