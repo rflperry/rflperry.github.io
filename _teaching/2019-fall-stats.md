@@ -2,7 +2,6 @@
 title: "553.430 Introduction to Statistics"
 collection: teaching
 permalink: /teaching/2019-fall-stats
-venue: "Johns Hopkins University, Applied Mathematics and Statistics"
 date: 2019-09-03
 location: "Baltimore, MD"
 ---
