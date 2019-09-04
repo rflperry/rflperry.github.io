@@ -10,4 +10,4 @@ location: "Baltimore, MD"
 
 Introduction to Statistics: Recitation Section Notes
 ======
-[9/3: Bivariate Normal](/files/1-Bivariate_Normal.md)
+[9/3: Bivariate Normal](/teaching/2019-fall-stats/1-Bivariate_Normal)
