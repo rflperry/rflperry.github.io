@@ -8,4 +8,4 @@ date: 2019-09-03
 location: "Baltimore, MD"
 ---
 
-[9/3: Bivariate Normal](/_teaching/1-Bivariate_Normal.pdf)
+[9/3: Bivariate Normal](/files/1-Bivariate_Normal.pdf)
