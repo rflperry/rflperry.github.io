@@ -10,4 +10,4 @@ location: "Baltimore, MD"
 
 [9/3: Bivariate Normal](/files/1-Bivariate_Normal.pdf)
 
-[9/10: Bivariate Normal](/files/2-Survey_Sampling.pdf)
+[9/10: Survey Sampling](/files/2-Survey_Sampling.pdf)
