@@ -12,5 +12,6 @@ location: "Baltimore, MD"
 
 [9/10: Survey Sampling](/files/2-Survey_Sampling.pdf)
 
-[9/17: Survey Sampling](/files/3-CI,Ratios.pdf)
+[9/17: Confidence Intervals](/files/3-CI,Ratios.pdf)
 
+[9/24: Ratio Estimates](/files/4-Ratio_Estimates.pdf)
