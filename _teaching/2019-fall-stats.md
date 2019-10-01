@@ -16,7 +16,7 @@ location: "Baltimore, MD"
 
 [9/24: Ratio Estimates](/files/4-Ratio_Estimates.pdf)
 
-[9/24: Ratio Estimates](/files/5-MOM_estimates.pdf)
+[10/1: Ratio Estimates](/files/5-MOM_estimates.pdf)
 * [Bootstrapping Notes](/files/Bootstrapping.pdf)
 * [Gamma Distribution R Code Example](/files/5-parametric_bootstrapping.R)
 
