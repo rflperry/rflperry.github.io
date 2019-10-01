@@ -2,8 +2,7 @@
 # Section Example Code
 # Ronan Perry
 
-ls()
-set.seed(0)
+set.seed(12)
 
 get_params <- function(){
     return(c(2,3))
