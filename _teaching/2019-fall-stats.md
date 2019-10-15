@@ -21,3 +21,5 @@ location: "Baltimore, MD"
 * [Gamma Distribution R Code Example](/files/5-parametric_bootstrapping.R)
 
 [10/8: MLE Estimates](/files/6-MLE_estimates.pdf)
+
+[10/15: Fisher Information](/files/7-Fisher_information.pdf)
