@@ -3,7 +3,7 @@ title: "Presentations"
 collection: teaching
 type: "Presentations"
 permalink: /teaching/presentations
-venue: "Johns Hopkins Universitys"
+venue: "Johns Hopkins University"
 date: 2019-01-01
 location: "Baltimore, MD"
 ---
