@@ -8,4 +8,4 @@ author_profile: true
 
 ### [JHU Splash](/teaching/jhu_splash)
 
-### [Miscellaneous Presentations](/files/presentations)
+### [Miscellaneous Presentations](/teaching/presentations)
