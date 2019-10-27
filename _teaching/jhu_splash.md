@@ -3,7 +3,7 @@ title: "Johns Hopkins Splash"
 collection: teaching
 type: "Class Slides"
 permalink: /teaching/jhu_splash
-venue: "Johns Hopkins Universitys"
+venue: "Johns Hopkins University"
 date: 2018-01-01
 location: "Baltimore, MD"
 ---
