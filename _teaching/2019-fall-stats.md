@@ -23,3 +23,13 @@ location: "Baltimore, MD"
 [10/8: MLE Estimates](/files/6-MLE_estimates.pdf)
 
 [10/15: Fisher Information](/files/7-Fisher_information.pdf)
+
+[10/22: Asymptotic behavior of Fisher Information](/files/8-Fisher_Asymptotes.pdf)
+
+[10/29: Bayesian Inference](/files/9-Bayesian_Inference.pdf)
+
+[11/5: Neyman Pearson](/files/10-Neyman_Pearson.pdf)
+
+[11/12: Generalized Likelihood Ratio Test](/files/11-GLRT.pdf)
+
+[11/19: The t-statistic](/files/12-t-Statistic.pdf)
