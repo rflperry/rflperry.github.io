@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Predictive Analysis and Electronics Board Failures [(post)](https://rflperry.github.io/posts/predictive-analysis/)
-Bayesian inference and how to better incorporate uncertainty into your estimates.
+An application of Bayesian inference inspired by a friend's question and how to better incorporate uncertainty into your estimates.
 
 ## Choosing recipes with network science [(post)](https://nbviewer.jupyter.org/github/rflperry/recipes/blob/master/analysis.ipynb)
 A friend's dilemma led me to an interesting application of my network science toolbox. It turns out, recipes are easily represented as a network. Take a look for an in depth analysis.
