@@ -5,6 +5,9 @@ permalink: /posts/
 author_profile: true
 ---
 
+## Gershgorin Circle Theorem
+![gif](/files/gershgorin.gif)
+
 ## Predictive Analysis and Electronics Board Failures [(post)](https://rflperry.github.io/posts/predictive-analysis/)
 An application of Bayesian inference inspired by a friend's question and how to better incorporate uncertainty into your estimates.
 
