@@ -5,8 +5,8 @@ permalink: /posts/
 author_profile: true
 ---
 
-## Gershgorin Circle Theorem
-![gif](/files/gershgorin.gif)
+## Gershgorin Circle Theorem Visualization[(post)](https://rflperry.github.io/posts/gershgorin/)
+A visualization of a theorem covered in my Matrix Analysis class that bounds the spectrum of a square matrix.
 
 ## Predictive Analysis and Electronics Board Failures [(post)](https://rflperry.github.io/posts/predictive-analysis/)
 An application of Bayesian inference inspired by a friend's question and how to better incorporate uncertainty into your estimates.
