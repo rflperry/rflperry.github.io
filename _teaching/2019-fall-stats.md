@@ -33,3 +33,5 @@ location: "Baltimore, MD"
 [11/12: Generalized Likelihood Ratio Test](/files/11-GLRT.pdf)
 
 [11/19: The t-statistic](/files/12-t-Statistic.pdf)
+
+[12/3: ANOVA](/files/13-ANOVA.pdf)
