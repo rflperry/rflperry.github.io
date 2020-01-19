@@ -5,7 +5,7 @@ permalink: /posts/
 author_profile: true
 ---
 
-## [The Impact Labs Fellowship](https://rflperry.github.io/posts/2020-01-19-Impact_Fellowship.md)
+## [The Impact Labs Fellowship](https://rflperry.github.io/posts/impact_fellowship/)
 I was selected as a 2020 Impact Labs Fellow and spend two weeks in NYC participating in this computer science and social entrepreneurship bootcamp!
 
 ## [Gershgorin Circle Theorem Visualization](https://rflperry.github.io/posts/gershgorin/)
