@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-* ### A Multiview Learning Package in Python ([Github](https://github.com/NeuroDataDesign/multiview) and [PyPi](https://pypi.org/project/mvlearn/))
+* ### A Multiview Learning Package in Python ([Github](https://github.com/NeuroDataDesign/multiview) and [Webpage](https://mvlearn.netlify.com/index.html))
 
    An in progress NeuroData Design project in the NeuroData lab.
 
