@@ -11,3 +11,5 @@ A list of some of my favorite quotes and/or metaphors. I make no claims that the
 * "I don't advise it, you understand, but it can be done. (Provided you have the right stuff)" -- The Right Stuff by Tom Wolfe
 * "re-ran the tape" -Stephen Gould (in reference to a replay of evolution and life)
 * "Statisticians, like artists, have the bad habit of falling in love with their models." -- George Box
+* "The size of C is a compromise." -- CEP
+* "Consistency is the least we can ask for." -- B&D
