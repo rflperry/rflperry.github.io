@@ -13,3 +13,4 @@ A list of some of my favorite quotes and/or metaphors. I make no claims that the
 * "Statisticians, like artists, have the bad habit of falling in love with their models." -- George Box
 * "The size of C is a compromise." -- CEP
 * "Consistency is the least we can ask for." -- B&D
+* “In theory, there is no difference between theory and practice. But in practice, there is.” -- Benjamin Brewster (not Einstein nor Yogi Berra)
