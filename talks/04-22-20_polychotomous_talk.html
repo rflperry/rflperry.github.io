@@ -238,7 +238,7 @@ $$\hat{y} = \text{arg} \max\_{1 \leq k \leq K} \sum\_{l=1}^K \mathbb{I}[\hat{f}\
 ### Consequences
 --
 
-- **Disadvantage**: Factor of $O(K)$ more classifiers
+- **Disadvantage**: Factor of $O(K)$ more classification boundaries
 
 --
 
@@ -341,6 +341,10 @@ $$\hat{f}\_k^{(kl)}(x) = \frac{1}{J\_{kl}}\sum\_{y\_i \in \\{k,l\\}}\mathbb{I}[|
 --
 
 - Increased sample size can reduce variance and make bias reduction relatively more profitable.
+
+--
+
+- One-vs-one classifiers can clearly be learned in parallel.
 
 --
 
