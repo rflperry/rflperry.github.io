@@ -17,7 +17,7 @@
 name:opening
 
 
-**Approaching multiclass classification**<br>
+**From binary to multiclass classification**<br>
 Ronan Perry | 
 [BME](https://www.bme.jhu.edu/)@[JHU](https://www.jhu.edu/) 
 
@@ -55,8 +55,11 @@ Ronan Perry |
 ## Outline
 
 - The classification framework
+
 - Estimating posteriors
+
 - The one-vs-one classifier
+
 - Examples
 
 ---
@@ -66,8 +69,9 @@ class: middle
 
 ---
 ### Terminology
+--
 
-- $K$ unordered classes $c_1,...,c_K$
+- $K$ unordered classes $1,...,K$
 
 --
 
@@ -83,25 +87,32 @@ class: middle
 
 --
 
-- True posterior probabilities 
-$$f_k(x) = P(y = k \mid x) \quad \forall k$$
+- True (but unknown) posterior probabilities 
+$$f_k(x) = P(y = k \mid x) \quad \forall k \in \\{1,...,K\\}$$
 
 ---
 ### Learning a decision rule
+--
 
-- We seek posterior estimates $\\{\hat{f}_k(x)\\}_1^K$
+- Goal to minimize the probability of missclassification (risk under uniform loss)
+
+$$R = \mathbb{E}_x \mathbb{I}[\hat{y} \neq y] = P(\hat{y} \neq y)$$
 
 --
 
-- Decision rule
+- The optimal (Bayes) but unknown decision rule is
 
-$$\hat{y} = \text{arg} \max_{1 \leq k \leq K} \hat{f}_k (x)$$
+$$y^* = \text{arg}\max\_{1 \leq k \leq K} f_k(x)$$
 
 --
 
-- Coresponding risk
+- Thus our plug in classifier is
 
-$$R = \mathbb{E}_x \mathbb{I}[\hat{y} \neq y]$$
+$$\hat{y} = \text{arg}\max\_{1 \leq k \leq K} \hat{f}\_k(x)$$
+
+--
+
+- But how to estimate the posteriors $\\{\hat{f}_k(x)\\}_1^K$?
 
 ---
 
@@ -110,6 +121,7 @@ class: middle
 
 ---
 ### Density estimation
+--
 
 - By Bayes theorem
 
@@ -125,6 +137,7 @@ $$f_k(x) = P(y = k \mid x) = \frac{P(x \mid y = k)P(y = k)}{\sum_l P(x \mid y = 
 
 ---
 ### Regression 
+--
 
 - "one-vs-all" encoding $d_k = \mathbb{I}[y = k]$
 
@@ -140,9 +153,11 @@ $$f_k(x) = P(d_k = 1 \mid x) = \mathbb{E}(d_k \mid x)$$
 
 $$f_k(x) = \text{arg} \min_f \mathbb{E}[(d_k - f)^2 \mid x]$$
 
+--
+
 - Motivates estimates
 
-$$\hat{f}\_k (x) = \text{arg} \min\_{f \in \mathcal{F}} \sum\_{i=1}^n [d\_k - f(x\_i)]^2$$
+$$\hat{f}\_k (x) = \text{arg} \min\_{f \in \mathcal{F}} \sum\_{i=1}^n [d\_k(y_i) - f(x\_i)]^2$$
 
 --
 
@@ -151,10 +166,11 @@ $$\hat{f}\_k (x) = \text{arg} \min\_{f \in \mathcal{F}} \sum\_{i=1}^n [d\_k - f(
 ---
 
 class: middle 
-## .center[.k[To a new decision rule]]
+## .center[.k[A new decision rule]]
 
 ---
 ### Reframing the decision rule
+--
 
 - Consider the identity
 
@@ -174,6 +190,7 @@ $$y^* = \text{arg} \max\_{1 \leq k \leq K} \sum_{l=1}^K \mathbb{I}\bigg[\frac{f\
 
 ---
 ### An alternative decision rule
+--
 
 - The restated Bayes classifier
 
@@ -181,7 +198,7 @@ $$y^* = \text{arg} \max\_{1 \leq k \leq K} \sum_{l=1}^K \mathbb{I}\bigg[\frac{f\
 
 --
 <br \>
-- Each term in the sum is the Bayes optimal two-class decision rule for $k$ vs. $l$, indepdent of the other $K-2$ classes.
+- Each term in the sum is the Bayes optimal two-class decision rule for $k$ vs. $l$, independent of the other $K-2$ classes.
 
 --
 
@@ -199,16 +216,17 @@ $$y^* = \text{arg} \max\_{1 \leq k \leq K} \sum_{l=1}^K \mathbb{I}\bigg[\frac{f\
 
 ---
 ### The one-vs-one classifier
+--
 
 - The ${K \choose 2}$ one-vs-one functions
 
-  $f\_k^{(kl)}(x) := \frac{f\_k(x)}{f\_k(x) + f\_l(x)}$
+--
 
-  $f\_k^{(kl)}(x) := \frac{P(x \mid y = k)P(y = k)}{P(x \mid y = k)P(y = k) + P(x \mid y = l)P(y = l)}$
+  $f\_k^{(kl)}(x) = \frac{f\_k(x)}{f\_k(x) + f\_l(x)} = \frac{P(x \mid y = k)P(y = k)}{P(x \mid y = k)P(y = k) + P(x \mid y = l)P(y = l)}$
 
 --
 
-- Let $\hat{f}\_k^{(kl)}(x)$ denote the estimated probability of $y = k$ given $x$ if only $y \in \\{k,l\\}$.
+- Estimated posterior $\hat{f}\_k^{(kl)}(x)$ of $y = k$ given $x$ for $y \in \\{k,l\\}$.
 
 --
 
@@ -218,6 +236,7 @@ $$\hat{y} = \text{arg} \max\_{1 \leq k \leq K} \sum\_{l=1}^K \mathbb{I}[\hat{f}\
 
 ---
 ### Consequences
+--
 
 - **Disadvantage**: Factor of $O(K)$ more classifiers
 
@@ -231,8 +250,9 @@ $$\hat{y} = \text{arg} \max\_{1 \leq k \leq K} \sum\_{l=1}^K \mathbb{I}[\hat{f}\
 
 ---
 ### Bias and variance considerations
+--
 
-- Can hopefully achieve lower bias on such less complex spaces.
+- Can hopefully achieve lower bias on less complex spaces.
 
 --
 
@@ -240,11 +260,11 @@ $$\hat{y} = \text{arg} \max\_{1 \leq k \leq K} \sum\_{l=1}^K \mathbb{I}[\hat{f}\
 
 --
 
-- Potential to decrease variance in each pair through more tailored model selection.
+- Tailored model selection per each pair may help reduce variance.
 
 --
 
-- Complex to asses affects on the aggregate multiclass classifier
+- Complex to asses effects on the aggregate multiclass classifier
 
 --
 
@@ -259,10 +279,11 @@ class: middle
 
 ---
 ### Nearest Neighbors
+--
 
 - **Traditional**
 
-$$\hat{f}\_k(x) = \frac{1}{J} \sum_{i=1}^N \mathbb{I}[||x - x_i|| \leq d_J(x)]\mathbb{I}(y_i = k) + t_k$$
+$$\hat{f}\_k(x) = \frac{1}{J} \sum_{i=1}^n \mathbb{I}[||x - x_i|| \leq d_J(x)]\mathbb{I}(y_i = k) + t_k$$
 
 --
 
@@ -279,9 +300,11 @@ $$\hat{f}\_k(x) = \frac{1}{J} \sum_{i=1}^N \mathbb{I}[||x - x_i|| \leq d_J(x)]\m
 
 ---
 ### Nearest Neighbors
+--
+
 - **Alternative**
 
-$$\hat{f}\_k^{(kl)}(x) = \frac{1}{J\_{kl}}\sum\_{y\_i \in \\{c\_k,c\_l\\}}\mathbb{I}[||x - x\_i|| \leq d\_{J\_{kl}}(x)]\mathbb{I}(y\_i = k) + t\_{kl}$$
+$$\hat{f}\_k^{(kl)}(x) = \frac{1}{J\_{kl}}\sum\_{y\_i \in \\{k,l\\}}\mathbb{I}[||x - x\_i|| \leq d\_{J\_{kl}}(x)]\mathbb{I}(y\_i = k) + t\_{kl}$$
 
 --
 - $J\_{kl}$ : number of nearest neighbors for that pair
@@ -301,6 +324,7 @@ $$\hat{f}\_k^{(kl)}(x) = \frac{1}{J\_{kl}}\sum\_{y\_i \in \\{c\_k,c\_l\\}}\mathb
 
 ---
 ### Empirical Results
+--
 
 - Toy examples show increased error using one-vs-all
 
@@ -310,16 +334,17 @@ $$\hat{f}\_k^{(kl)}(x) = \frac{1}{J\_{kl}}\sum\_{y\_i \in \\{c\_k,c\_l\\}}\mathb
 
 ---
 ### Takeaways
+--
 
 - Creating independence between parameters can yield computational benefits
 
 --
 
-- Increased sample size can reduce variance in one-vs-one classifiers and bias reduction more profitable.
+- Increased sample size can reduce variance and make bias reduction relatively more profitable.
 
 --
 
-- One-vs-one classifiers need not be from the same class.
+- One-vs-one classifiers need not be from the same space of classifiers.
 
 --
 <br \><br \><br \>
@@ -327,6 +352,7 @@ $$\hat{f}\_k^{(kl)}(x) = \frac{1}{J\_{kl}}\sum\_{y\_i \in \\{c\_k,c\_l\\}}\mathb
 
 ---
 ### In the defense of one-vs-all classification
+--
 
 - Arguments for both methods (and others) in the literature.
 
@@ -340,12 +366,18 @@ $$\hat{f}\_k^{(kl)}(x) = \frac{1}{J\_{kl}}\sum\_{y\_i \in \\{c\_k,c\_l\\}}\mathb
 
 --
 
-- One-vs-all tends to be simpler.
+- One-vs-all tends to be simpler from an implementation standpoint.
+
+---
+class: middle 
+## .center[.k[Thank you!]]
 
 ---
 ### References
 
 - Friedman, J. H "Another Approach to Polychotomous Classification" (Oct. 1996).
+
+- Friedman, J.H "On Bias, Variance, 0/1—Loss, and the Curse-of-Dimensionality" (Mar. 1997).
 
 - Rifkin, R. and Klautau, A. "In Defense of One-vs-All Classification" (Dec. 2004).
 
