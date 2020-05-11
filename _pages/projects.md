@@ -12,20 +12,20 @@ author_profile: true
 
 * ### A Multiview Learning Package in Python ([Github](https://github.com/NeuroDataDesign/multiview) and [Webpage](https://mvlearn.netlify.com/index.html))
 
-   An in progress NeuroData Design project in the NeuroData lab.
+   Capstone design project for 580.437/438 NeuroData Design (Fall 2019/Spring 2020).
 
 * ### Solving the Shortest Common Superstring Problem via Deep Reinforcement Learning ([link](/files/dldo_scsp_6-18.pdf) and [Github](https://github.com/rflperry/dl-scsp))
 
-  Semester project for Deep Learning for Discrete Optimization (AMS 667 Spring 2019).
+  Final project for 553.667 Deep Learning for Discrete Optimization (Spring 2019).
   
 * ### Expert Defined versus Learned Dynamic Bayesian Networks for Inflation Prediction ([link](/files/rperry27_PGM_Final_Project.pdf) and [Github](https://github.com/rflperry/pgm_final))
 
-  Semester project for Machine Learning: Data to Models (CS 476 Spring 2019)
+  Final project for 601.476 Machine Learning: Data to Models (Spring 2019).
 
 * ### Linking the Caenorhabditis elegans nervous system neural connections and developmental history ([link](/files/C__elegans_lineages.pdf))
    
-   NeuroData Design semester project in the NeuroData lab.
+   Semester project for 580.438 NeuroData Design (Spring 2019).
 
 * ### Yelp Dataset Challenge 2018 ([link](https://rflperry.github.io/yelp_challenge2018/))
 
-    Social Graphs and Interactions class final project.
+    Final project for 02805 Social Graphs and Interactions (Fall 2018).
