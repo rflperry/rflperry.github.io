@@ -6,6 +6,10 @@ author_profile: true
 
 ---
 
+* ### ODE methods for epidemiological models with applications to COVID-19 ([Github](https://github.com/rflperry/553.738_final) and [Report](https://github.com/rflperry/553.738_final/blob/master/553_738_Final_Project.pdf))
+
+   Final project for 553.738 High-dimensional Approximation, Probability, and Statistical Learning (Spring 2020).
+
 * ### A Multiview Learning Package in Python ([Github](https://github.com/NeuroDataDesign/multiview) and [Webpage](https://mvlearn.netlify.com/index.html))
 
    An in progress NeuroData Design project in the NeuroData lab.
