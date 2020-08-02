@@ -12,4 +12,4 @@ Ronan Perry, Tyler M. Tomita, Jesse Patsolic, Benjamin Falk, and Joshua T. Vogel
 
 ## Conference Abstracts
 Ronan Perry, L. Daumail, J. Zorn, D. S. Margulies, J. T. Vogelstein, and A. Lutz. Identifying Differences Between
-Expert and Novice Meditator Brain Scans via Multiview Embedding. In: Organization for Human Brain Mapping, June 2020.
+Expert and Novice Meditator Brain Scans via Multiview Embedding. In: Organization for Human Brain Mapping, June 2020. ([poster](../files/ohbm2020_poster_rperry.pdf))
