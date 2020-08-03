@@ -5,6 +5,12 @@ permalink: /posts/
 author_profile: true
 ---
 
+## Feb
+
+## Feb 27, 2020 | [McNemar's Test for comparing classifiers](https://htmlpreview.github.io/?https://github.com/rflperry/math_tutorials/blob/master/webdocs/StatPatternRecognition/McNemars_Test.html)
+
+## Feb 17, 2020 | [Learning with an unreliable teacher](https://htmlpreview.github.io/?https://github.com/rflperry/math_tutorials/blob/master/webdocs/StatPatternRecognition/Unreliable_Teacher.html)
+
 ## Jan 19, 2020 | [The Impact Labs Fellowship](https://rflperry.github.io/posts/impact_fellowship/)
 I was selected as a 2020 Impact Labs Fellow and spend two weeks in NYC participating in this computer science and social entrepreneurship bootcamp!
 
