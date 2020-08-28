@@ -5,6 +5,8 @@ permalink: /posts/
 author_profile: true
 ---
 
+## Aug 27, 2020 | [Trunk: the curse of dimensionality](https://nbviewer.jupyter.org/github/rflperry/math_tutorials/blob/master/tutorials/StatPatternRecognition/Trunk.ipynb)
+
 ## Feb 27, 2020 | [McNemar's Test for comparing classifiers](https://htmlpreview.github.io/?https://github.com/rflperry/math_tutorials/blob/master/webdocs/StatPatternRecognition/McNemars_Test.html)
 
 ## Feb 17, 2020 | [Learning with an unreliable teacher](https://htmlpreview.github.io/?https://github.com/rflperry/math_tutorials/blob/master/webdocs/StatPatternRecognition/Unreliable_Teacher.html)
