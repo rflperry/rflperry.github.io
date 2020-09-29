@@ -15,3 +15,4 @@ A list of some of my favorite quotes and/or metaphors. I make no claims that the
 * "Consistency is the least we can ask for." -- B&D
 * “In theory, there is no difference between theory and practice. But in practice, there is.” -- Benjamin Brewster (not Einstein nor Yogi Berra)
 * "The bureaucracy is expanding, to meet the needs of of the expanding bureaucracy." -- Oscar Wilde
+* "At one time I asked how many Merkavas had been produced, and I was told that this information was classified. I found it amusing, because there was a serial number on each tank chassis." -- Colonel Trevor Dupuy
