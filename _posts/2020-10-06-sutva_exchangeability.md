@@ -45,7 +45,7 @@ SUTVA helps with generalizations **outside** of the study. The first point, cons
 the effects of aspirin on relieving headaches in our table, consistency would say that subjects 2 and 3 each received the exact same type and strength of aspirin. If
 we wanted to infer the relief offered by the aspirin when given to new patients, we can make statements about that exact type and strength of aspirin but no other.
 The second point, no interference, helps with generalizations outside of the study setting. Using the same aspirin example, no interference says that subject 2 taking
-aspirin doesn't cause subject 1's headache to be relieved because subject 2 stopped complaining incessantly. This assumptions does away with issues of potential
+aspirin doesn't cause subject 1's headache to be relieved because subject 2 stopped complaining incessantly. This assumption does away with issues of potential
 network effects and intra-study dynamics that wouldn't replicate if a treatment was applied elsewhere.
 
 SUTVA helps, but with causal claims there are always more things to keep in mind. For instance, there is still the issue of whether the study population is a
