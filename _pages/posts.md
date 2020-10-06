@@ -5,6 +5,9 @@ permalink: /posts/
 author_profile: true
 ---
 
+## Oct 6th, 2020 | [SUTVA vs. Exchangeability](https://rflperry.github.io/posts/sutva_vs_exchangeability/)
+An explanation of two concepts in causal inference and statistics and how they differ, per a question in a recent lab meeting.
+
 ## Aug 27, 2020 | [Trunk: the curse of dimensionality](https://nbviewer.jupyter.org/github/rflperry/math_tutorials/blob/master/tutorials/StatPatternRecognition/Trunk.ipynb)
 
 ## Feb 27, 2020 | [McNemar's Test for comparing classifiers](https://htmlpreview.github.io/?https://github.com/rflperry/math_tutorials/blob/master/webdocs/StatPatternRecognition/McNemars_Test.html)
