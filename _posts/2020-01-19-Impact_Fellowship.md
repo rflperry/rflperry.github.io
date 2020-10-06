@@ -9,7 +9,7 @@ tags:
 The Impact Labs Fellowship
 ======
 
-In the start of January 2020, I had the pleasure and the fortunate of being selected and participating in the [Impact Labs 
+In the start of January 2020, I had the pleasure and the fortune of being selected and participating in the [Impact Labs 
 Fellowship](https://www.impactlabs.io/fellowship/) as a 2020 Fellow. This fellowship is a two-week-long software engineering and 
 social entrepreneurship bootcamp hosted in New York City. I was joined by approximately 45 other individuals from diverse backgroundd, all
 with shared computer science experience and a desire for our work to contribute to the social good.
