@@ -3,7 +3,7 @@ title: "Permutation-corrected independence testing for high-dimensional fMRI dat
 collection: talks
 type: "Talk"
 permalink: /talks/neuromatch-2020
-venue: "Neuromatch 3.0, online"
+venue: "Neuromatch 3.0"
 date: 2020-10-27
 location: "Virtual"
 ---
