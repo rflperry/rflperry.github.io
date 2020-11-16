@@ -8,6 +8,9 @@ main:
     
   - title: "Posts"
     url: /posts/
+    
+  - title: "Talks"
+    url: /talks/
 
   - title: "Teaching"
     url: /teaching/
