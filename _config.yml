@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ronan Perry"
   avatar           : "profile.png"
-  bio              : "Researcher of brains and machines"
+  bio              : "Researcher of statistics, brains, and open-source software"
   location         : "Baltimore, MD"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -198,7 +198,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: false
   # _teaching
   - scope:
       path: ""
