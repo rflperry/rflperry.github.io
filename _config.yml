@@ -197,7 +197,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: false
   # _teaching
   - scope:
@@ -206,7 +206,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -215,7 +215,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _projects
   - scope:
@@ -224,7 +224,7 @@ defaults:
     values:
       layout: default
       author_profile: true
-      share: true
+      share: false
       comment: false
   # _talks
   - scope:
@@ -233,7 +233,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
