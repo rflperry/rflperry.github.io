@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/polychotomous
 venue: "Neurodata Lab Presentation"
-date: 2020-10-01
+date: 2020-05-01
 location: "Baltimore, MD"
 ---
 
