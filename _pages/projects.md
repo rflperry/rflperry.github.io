@@ -10,7 +10,7 @@ author_profile: true
 
    Final project for 553.738 High-dimensional Approximation, Probability, and Statistical Learning (Spring 2020).
 
-* ### A Multiview Learning Package in Python ([Webpage](https://mvlearn.neurodata.io/index.html), [Paper](https://arxiv.org/abs/2005.11890), and [Github](https://github.com/NeuroDataDesign/multiview))
+* ### A Multiview Learning Package in Python ([Webpage](https://mvlearn.github.io/index.html), [Paper](https://arxiv.org/abs/2005.11890), and [Github](https://github.com/NeuroDataDesign/multiview))
 
    Capstone design project for 580.437/438 NeuroData Design (Fall 2019/Spring 2020).
 
