@@ -5,6 +5,9 @@ permalink: /posts/
 author_profile: true
 ---
 
+## Dec 31st, 2020 | [My 2020 Strava running year in review](https://rflperry.github.io/posts/2020_strava_year_in_review/)
+2020 was a good year for my running training and the first year I started using Strava. It was fun to look a bit deeper into the data they collect.
+
 ## Oct 6th, 2020 | [SUTVA vs. Exchangeability](https://rflperry.github.io/posts/sutva_vs_exchangeability/)
 An explanation of two concepts in causal inference and statistics and how they differ, per a question in a recent lab meeting.
 
