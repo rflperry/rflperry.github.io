@@ -162,7 +162,7 @@ plt.show()
 ```
 
 
-![png](2020-12-31-strava_analysis/output_7_0.png)
+![png](/images/2020-12-31-strava_analysis/output_7_0.png)
 
 
 We can look at the slowest runs and fastest runs I had. There are some entries that look like they are the results of errors, so we can go ahead and remove them.
@@ -342,7 +342,7 @@ plt.show()
 ```
 
 
-![png](2020-12-31-strava_analysis/output_15_0.png)
+![png](/images/2020-12-31-strava_analysis/output_15_0.png)
 
 
 The daily information is a bit noisy, so we can also look at the same data as a weekly (7 day) moving average. Some of the trends a more noticeable and some sharp changes in my training due to work or injury become more apparent.
@@ -365,7 +365,7 @@ plt.show()
 ```
 
 
-![png](2020-12-31-strava_analysis/output_17_0.png)
+![png](/images/2020-12-31-strava_analysis/output_17_0.png)
 
 
 In the interest of my performance prior to injury, we can identify the exact day with the help of my logged description. We can go ahead and look at my performance up to this point, where my training became a bit rocky as I recovered.
@@ -496,7 +496,7 @@ print(f'Average minutes per mile decreased by {-min_per_mile_change*60:.1f} seco
 ```
 
 
-![png](2020-12-31-strava_analysis/output_23_0.png)
+![png](/images/2020-12-31-strava_analysis/output_23_0.png)
 
 
     Average minutes per mile decreased by 22.2 seconds over the course of the training
@@ -528,7 +528,7 @@ plt.show()
 ```
 
 
-![png](2020-12-31-strava_analysis/output_25_0.png)
+![png](/images/2020-12-31-strava_analysis/output_25_0.png)
 
 
 Not too many surprises at the relationships between some of this data. A lot of things are heavily correlated that would be expected, i.e. Distance and Relative Effort. Average heart rate is actually not that strongly correlated with many of the variables, excet for relative effort which may be a sign as to how that's computed.
@@ -547,7 +547,7 @@ plt.show()
 ```
 
 
-![png](2020-12-31-strava_analysis/output_27_0.png)
+![png](/images/2020-12-31-strava_analysis/output_27_0.png)
 
 
 And here is a big surprise. From the end of May through the end of December, I only ever ran on a Monday twice! My training schedule always had long runs on Sunday and a rest day on Monday, so this shouldn't be too unexpected but still comes as a surprise.
