@@ -2,12 +2,12 @@
 <html>
 
 <head>
-  <title>LFInTS</title>
+  <title>Permutation-corrected independence testing for high-dimensional fMRI data</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <link rel="stylesheet" href="fonts/quadon/quadon.css">
-  <link rel="stylesheet" href="fonts/gentona/gentona.css">
-  <link rel="stylesheet" href="slides_style.css">
-  <script type="text/javascript" src="assets/plotly/plotly-latest.min.js"></script>
+  <link rel="stylesheet" href="../fonts/quadon/quadon.css">
+  <link rel="stylesheet" href="../fonts/gentona/gentona.css">
+  <link rel="stylesheet" href="../slides_style.css">
+  <script type="text/javascript" src="../assets/plotly/plotly-latest.min.js"></script>
 </head>
 
 <body>
@@ -17,39 +17,59 @@
 name:opening
 
 
-**TODO:Title**<br>
+**Permutation-corrected independence testing for high-dimensional fMRI data**<br>
 Ronan Perry | 
 [BME](https://www.bme.jhu.edu/)@[JHU](https://www.jhu.edu/) 
 
 <center>
-<a href="https://neurodata.io"><img src="images/neurodata_purple.png" style="height:430px;"/></a>
+<a href="https://neurodata.io"><img src="../images/neurodata_purple.png" style="height:430px;"/></a>
 </center>
 
 <!-- <img src="images/funding/jhu_bme_blue.png" STYLE="HEIGHT:95px;"/> -->
 <!-- <img src="images/funding/KNDI.png" STYLE="HEIGHT:95px;"/> -->
 <!-- <font color="grey"></font> -->
-.foot[[rperry27&#0064;jhu.edu](mailto:rperry27@jhu.edu) | <http://neurodata.io/> | [@neuro_data](https://twitter.com/neuro_data)]
+.foot[[rperry27&#0064;jhu.edu](mailto:rperry27@jhu.edu) | <http://rflperry.github.io/> | [@perry_ronan](https://twitter.com/perry_ronan)]
 
 ---
 
-## Outline
+## Acknowledgements
 
-- TODO:Bullet 1
+- **Loic Daumail, Jelle Zorn, Sebastien Czajko, and Antoine Lutz** <br> @ Lyon Neuroscience Research Center (CRNL)
+
+- **Daniel S. Margulies** <br> @ Centre National de la Recherche Scientifique (CNRS)
+
+- **Joshua T. Vogelstein** <br> @ Johns Hopkins University & Kavli Institute
+
+---
+
+## The motivating data
+- 76 subjects
+  - 29 Expert meditators (>10000 hours experience)
+  - 47 Novice meditators (1 weekend training)
 
 --
+- 3 measured states
+  - Resting
+  - Compassion
+  - Open monitoring
 
-- TODO:Bullet 2
+--
+- fMRI recordings
+  - across 18715 cortical vertices
+  - 10 minutes each state
 
----
+--
+- Question: are there meaningful differences between subjects? across states?
 
-class: middle 
-## .center[.k[TODO:Transition Slide Name]]
+<p style=" position: absolute; bottom: 0; font-size:40%;">
+  TODO FMRI
+</p>	
 
 ---
 ### TODO:Header
 <br/>
 <center>
-<img src="images/neurodata_main.png"  style="height: 475px;"/>
+<img src="../images/neurodata_main.png"  style="height: 475px;"/>
 </center>
 
 
@@ -76,7 +96,7 @@ class: middle
 
     </textarea>
   <!-- <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script> -->
-  <script src="remark-latest.min.js"></script>
+  <script src="../remark-latest.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/contrib/auto-render.min.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css">
