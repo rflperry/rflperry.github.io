@@ -10,7 +10,7 @@ tags:
   - MDL
 ---
 
-# Model selection and Hodges Problem
+# Model selection
 
 The following theory and problems are adapted from "Theory of Point Estimation" (Lehmann and Casella, 1998) and "Model Selection and the Principle of Minimum Description Length" (Hansen and Yu, 2001).
 
@@ -25,25 +25,25 @@ $$
     \bar{X} & \text{if } |\bar{X}| \geq n^{-1/4}\\
     0 & \text{if } |\bar{X}| < n^{-1/4}
 \end{cases}
-$$
+$$,
 
-and thus chose $M_0$ if and only if $|\bar{X}| < n^{1/4}$. Notably, the risk $R_n(\theta)$ of this estimator is less than 1 for $\theta$ close to 0 (dependent on $n$) and thus is below the asymptotic variance and Cramer-Rao lower bound making it a superefficient estimator in certain cases.
+and thus chose $M_0$ if and only if $|\bar{X}| < n^{-1/4}$. Notably, the risk $R_n(\theta)$ of this estimator is less than 1 for $\theta$ close to 0 (dependent on $n$) and thus is below the asymptotic variance and Cramer-Rao lower bound making it a superefficient estimator in certain cases.
 
 Alternative, more conventional model selection methods include the Bayesian Information Criterion (BIC), Akaike Information Criterion (AIC), and Minimum Description Length (MDL).
+
+## Model Selection
 
 ### MDL
 MDL specifies the complexity of a model in terms of the information theoretic length of a bit string needed to be sent from a sender to a receiver (assuming some common knowlege shared between both parties). From Hansen and Yu (2001), we consider a two-stage coding in which we first quantify the cost $L(\hat{\theta})$ of encoding a parameter and then quantify the cost $L_M(X^n)$ of encoding the data given our model. The cost depends on our level of precision and so the finite parameter space for a given number is discreteized with precision $1 / \sqrt{n}$, reflecting the standard parametric rate of convergence (Hansen and Yu, 2001). We denote the likelihood function of our data given a parameter $\theta$ as $\mathcal{L}_{\theta}$ and our maximum likelihood estimate $\hat{\theta}_n = \bar{X}$.
 
-$$
-\begin{align}
+\begin{align*}
 MDL_{M_0}(X^n) &= L(0) + L_{M_0}(X^n) \\
 &= 0 + -\log \mathcal{L}_{0}(X^n) \\
 &= \frac{1}{2} \sum_{i=1}^n X_i^2 + \frac{n}{2}\log(2 \pi) \\
 MDL_{M_1}(X^n) &= L(\bar{X}) + L_{M_1}(X^n) \\
 &= -\log(1/\sqrt{n}) + -\log \mathcal{L}_{\bar{X}}(X^n) \\
-&= \frac{1}{2}\log(n) + \frac{1}{2} \sum_{i=1}^n (X_i - \bar{X})^2 + \frac{n}{2}\log(2 \pi) \\
-\end{align}
-$$
+&= \frac{1}{2}\log(n) + \frac{1}{2} \sum_{i=1}^n (X_i - \bar{X})^2 + \frac{n}{2}\log(2 \pi)
+\end{align*}
 
 Thus, we choose $M_0$ iff $MDL_{M_0} < MDL_{M_1}$ which is true, after cancelling terms, when
 $$|\bar{X}| < (\frac{1}{n}\log n)^{1/2}$$.
@@ -53,14 +53,13 @@ BIC is defined as $BIC_M(X^n) = -2\log \mathcal{L}_{\hat{\theta}}(X^n) + k\log n
 
 ### AIC
 AIC is defined as $AIC_M(^n) = -2\log \mathcal{L}_{\hat{\theta}}(X^n) + 2k$. So, in this problem
-$$
-\begin{align}
+
+\begin{align*}
 AIC_{M_0}(X^n) &= -2\log \mathcal{L}_{0}(X^n) + 2k \\
 &= \sum_{i=1}^n X_i^2 + n\log(2 \pi) + 0\\
 AIC_{M_1}(X^n) &= -2\log \mathcal{L}_{\bar{X}}(X^n) + 2k \\
-&= \sum_{i=1}^n (X_i - \bar{X})^2 + n\log(2 \pi) + 2 \\
-\end{align}
-$$
+&= \sum_{i=1}^n (X_i - \bar{X})^2 + n\log(2 \pi) + 2
+\end{align*}
 
 Thus, we choose $M_0$ iff $AIC_{M_0} < AIC_{M_1}$ which is true, after cancelling terms, when
 $$|\bar{X}| < (2/n)^{1/2}$$.
@@ -128,7 +127,7 @@ for n, ax in zip(n_range, axes):
         ax.plot(theta_range, risk, label=f'{name}')
 
     ax.axhline(1, c='grey', ls='--', label='Asymptotic variance')
-    ax.set_xlabel(r'$\theta$')
+    ax.set_xlabel(r'$|\theta|$')
     ax.set_xticks(np.linspace(0, 1.5, 7))
     ax.legend()
     ax.set_title(f'n={n}')
@@ -163,7 +162,7 @@ for i, (name, model) in enumerate(zip(model_names, models)):
     for n, risk in zip(n_range, risks):
         ax.plot(theta_range, risk, label=f'n={n}')
     ax.axhline(1, c='grey', ls='--', label='Asymptotic variance')
-    ax.set_xlabel(r'$\theta$')
+    ax.set_xlabel(r'$|\theta|$')
     ax.set_xticks(np.linspace(0, 1.5, 7))
     ax.legend()
     ax.set_title(name)
