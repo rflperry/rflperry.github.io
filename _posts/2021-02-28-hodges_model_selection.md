@@ -1,5 +1,5 @@
 ---
-title: 'Model Selection and Hodge's Problem'
+title: "Model Selection and Hodge's Problem"
 date: 2021-02-28
 permalink: /posts/model_selection_hodges/
 tags:
@@ -173,7 +173,7 @@ plt.show()
 ```
 
 
-![png](/images/2021-02-28-hodges_model_selection/)
+![png](/images/2021-02-28-hodges_model_selection/output_4_0.png)
 
 
 Notably, all estimators are superefficient for small $\theta$, requiring smaller $\theta$ the larger $n$ is. AIC, however, appears to maintain almost constant risk even as sample size grows whereas BIC (equivalently MDL) and even moreso Hodge's estimator have larger risks that grow as $n$ increases on a vanishingly small set of possible $\theta \in \mathbb{R}$.
