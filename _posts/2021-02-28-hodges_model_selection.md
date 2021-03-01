@@ -1,5 +1,4 @@
 ---
----
 title: 'Model Selection and Hodge's Problem'
 date: 2021-02-28
 permalink: /posts/model_selection_hodges/
