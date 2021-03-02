@@ -27,7 +27,7 @@ $$
 \end{cases}
 $$
 
-and thus chooses $M_0$ if and only if $|\\bar{X}\| < n^{-1/4}$. Notably, the risk $R_n(\theta)$ of this estimator is less than 1 for $\theta$ close to 0 (dependent on $n$) and thus is below the asymptotic variance and Cramer-Rao lower bound making it a superefficient estimator in certain cases.
+and thus chooses $M_0$ if and only if $\|\bar{X}\| < n^{-1/4}$. Notably, the risk $R_n(\theta)$ of this estimator is less than 1 for $\theta$ close to 0 (dependent on $n$) and thus is below the asymptotic variance and Cramer-Rao lower bound making it a superefficient estimator in certain cases.
 
 Alternative, more conventional model selection methods include the Bayesian Information Criterion (BIC), Akaike Information Criterion (AIC), and Minimum Description Length (MDL).
 
