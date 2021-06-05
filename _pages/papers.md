@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-Ronan Perry, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, Alexandre Gramfort, and Joshua T. Vogelstein. mvlearn: Multiview Machine Learning in Python. *Journal of Machine Learning Research*, 22(109), 2021. ([JMLR](https://jmlr.org/papers/v22/20-1370.bib), [arxiv](https://arxiv.org/abs/2005.11890))
+Ronan Perry, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, Alexandre Gramfort, and Joshua T. Vogelstein. mvlearn: Multiview Machine Learning in Python. *Journal of Machine Learning Research*, 22(109), 2021. ([JMLR](https://www.jmlr.org/papers/v22/20-1370.html), [arxiv](https://arxiv.org/abs/2005.11890))
 
 
 ## Preprints
