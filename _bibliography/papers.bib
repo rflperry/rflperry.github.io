@@ -1,0 +1,71 @@
+
+@article{perry_manifold_2020,
+	title = {Manifold {Forests}: {Closing} the {Gap} on {Neural} {Networks}},
+	shorttitle = {Manifold {Forests}},
+	url = {http://arxiv.org/abs/1909.11799},
+	abstract = {Decision forests (DFs), in particular random forests and gradient boosting trees, have demonstrated state-of-the-art accuracy compared to other methods in many supervised learning scenarios. In particular, DFs dominate other methods in tabular data, that is, when the feature space is unstructured, so that the signal is invariant to permuting feature indices. However, in structured data lying on a manifold---such as images, text, and speech---deep networks (DNs), specifically convolutional deep networks (ConvNets), tend to outperform DFs. We conjecture that at least part of the reason for this is that the input to DNs is not simply the feature magnitudes, but also their indices (for example, the convolution operation uses feature locality). In contrast, naive DF implementations fail to explicitly consider feature indices. A recently proposed DF approach demonstrates that DFs, for each node, implicitly sample a random matrix from some specific distribution. These DFs, like some classes of DNs, learn by partitioning the feature space into convex polytopes corresponding to linear functions. We build on that approach and show that one can choose distributions in a manifold-aware fashion to incorporate feature locality. We demonstrate the empirical performance on data whose features live on three different manifolds: a torus, images, and time-series. In all simulations, our Manifold Oblique Random Forest (MORF) algorithm empirically dominates other state-of-the-art approaches that ignore feature space structure and challenges the performance of ConvNets. Moreover, MORF runs significantly faster than ConvNets and maintains interpretability and theoretical justification. This approach, therefore, has promise to enable DFs and other machine learning methods to close the gap to deep networks on manifold-valued data.},
+	urldate = {2020-10-17},
+	journal = {arXiv:1909.11799 [cs, stat]},
+	author = {Perry, Ronan and Tomita, Tyler M. and Mehta, Ronak and Arroyo, Jesus and Patsolic, Jesse and Falk, Benjamin and Vogelstein, Joshua T.},
+	month = aug,
+	year = {2020},
+	note = {arXiv: 1909.11799},
+	keywords = {Computer Science - Machine Learning, Statistics - Machine Learning, 68T05},
+	file = {arXiv Fulltext PDF:/Users/rflperry/Zotero/storage/SLXNK866/Perry et al. - 2020 - Manifold Forests Closing the Gap on Neural Networ.pdf:application/pdf;arXiv.org Snapshot:/Users/rflperry/Zotero/storage/BTFLMM9M/1909.html:text/html}
+}
+
+@phdthesis{perry_manifold-aware_2020,
+	address = {Baltimore, MD},
+	title = {Manifold-aware {Forests}: {Closing} the {Gap} to {Convolutional} {Neural} {Networks}},
+	language = {en},
+	school = {Johns Hopkins University},
+	author = {Perry, Ronan},
+	month = may,
+	year = {2020},
+	file = {Perry - MANIFOLD-AWARE FORESTS CLOSING THE GAP TO CONVOLU.pdf:/Users/rflperry/Zotero/storage/4E9MZJAC/Perry - MANIFOLD-AWARE FORESTS CLOSING THE GAP TO CONVOLU.pdf:application/pdf}
+}
+
+@inproceedings{ronan_perry_permutation-corrected_2020,
+	title = {Permutation-corrected independence testing for high-dimensional {fMRI} data},
+	author = {{Ronan Perry} and {Loic Daumail} and {Jelle Zorn} and {Sebastien Czajko} and {Daniel S. Margulies} and {Joshua T. Vogelstein} and {Antoine Lutz}},
+	month = oct,
+	year = {2020}
+}
+
+@inproceedings{ronan_perry_identifying_2020,
+	title = {Identifying {Differences} {Between} {Expert} and {Novice} {Meditator} {Brain} {Scans} via {Multiview} {Embedding}},
+	author = {{Ronan Perry} and {Loic Daumail} and {Jelle Zorn} and {Daniel S. Margulies} and {Joshua T. Vogelstein} and {Antoine Lutz}},
+	month = jun,
+	year = {2020}
+}
+
+@article{perry_mvlearn_2021,
+	title = {mvlearn: {Multiview} {Machine} {Learning} in {Python}},
+	volume = {22},
+	copyright = {All rights reserved},
+	issn = {1533-7928},
+	shorttitle = {mvlearn},
+	url = {http://jmlr.org/papers/v22/20-1370.html},
+	number = {109},
+	urldate = {2021-06-05},
+	journal = {Journal of Machine Learning Research},
+	author = {Perry, Ronan and Mischler, Gavin and Guo, Richard and Lee, Theodore and Chang, Alexander and Koul, Arman and Franz, Cameron and Richard, Hugo and Carmichael, Iain and Ablin, Pierre and Gramfort, Alexandre and Vogelstein, Joshua T.},
+	year = {2021},
+	pages = {1--7},
+	file = {Full Text PDF:/Users/rflperry/Zotero/storage/WNVAW9QJ/Perry et al. - 2021 - mvlearn Multiview Machine Learning in Python.pdf:application/pdf;Snapshot:/Users/rflperry/Zotero/storage/EKK4ERIU/20-1370.html:text/html}
+}
+
+@article{panda_nonpar_2021,
+	title = {Nonpar {MANOVA} via {Independence} {Testing}},
+	copyright = {All rights reserved},
+	url = {http://arxiv.org/abs/1910.08883},
+	abstract = {The \$k\$-sample testing problem tests whether or not \$k\$ groups of data points are sampled from the same distribution. Multivariate analysis of variance (MANOVA) is currently the gold standard for \$k\$-sample testing but makes strong, often inappropriate, parametric assumptions. Moreover, independence testing and \$k\$-sample testing are tightly related, and there are many nonparametric multivariate independence tests with strong theoretical and empirical properties, including distance correlation (Dcorr) and Hilbert-Schmidt-Independence-Criterion (Hsic). We prove that universally consistent independence tests achieve universally consistent \$k\$-sample testing and that \$k\$-sample statistics like Energy and Maximum Mean Discrepancy (MMD) are exactly equivalent to Dcorr. Empirically evaluating these tests for \$k\$-sample scenarios demonstrates that these nonparametric independence tests typically outperform MANOVA, even for Gaussian distributed settings. Finally, we extend these non-parametric \$k\$-sample testing procedures to perform multiway and multilevel tests. Thus, we illustrate the existence of many theoretically motivated and empirically performant \$k\$-sample tests. A Python package with all independence and k-sample tests called hyppo is available from https://hyppo.neurodata.io/.},
+	urldate = {2021-06-07},
+	journal = {arXiv:1910.08883 [cs, stat]},
+	author = {Panda, Sambit and Shen, Cencheng and Perry, Ronan and Zorn, Jelle and Lutz, Antoine and Priebe, Carey E. and Vogelstein, Joshua T.},
+	month = apr,
+	year = {2021},
+	note = {arXiv: 1910.08883},
+	keywords = {Computer Science - Machine Learning, Statistics - Machine Learning},
+	file = {arXiv Fulltext PDF:/Users/rflperry/Zotero/storage/S3MJQ68K/Panda et al. - 2021 - Nonpar MANOVA via Independence Testing.pdf:application/pdf;arXiv.org Snapshot:/Users/rflperry/Zotero/storage/D7669DLP/1910.html:text/html}
+}

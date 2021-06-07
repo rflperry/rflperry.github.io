@@ -25,3 +25,10 @@ Expert and Novice Meditator Brain Scans via Multiview Embedding. In: Organizatio
 ## Master's Thesis
 
 Ronan Perry. Manifold-aware Forests: Closing the Gap to Convolutional Neural Networks. Johns Hopkins University, Baltimore, MD, 2020. ([JHU Library](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/62715/PERRY-THESIS-2020.pdf?sequence=1))
+
+{: #publications}
+## Selected Publications
+
+{% for y in page.years %}
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
