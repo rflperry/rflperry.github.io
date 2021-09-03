@@ -209,14 +209,14 @@ defaults:
       share: false
       comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
+#   - scope:
+#       path: ""
+#       type: publications
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: false
+#       comments: true
   # _projects
   - scope:
       path: ""
@@ -227,13 +227,13 @@ defaults:
       share: false
       comment: false
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: false
+#   - scope:
+#       path: ""
+#       type: talks
+#     values:
+#       layout: talk
+#       author_profile: true
+#       share: false
 
 # Sass/SCSS
 sass:
