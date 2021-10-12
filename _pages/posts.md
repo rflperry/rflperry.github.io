@@ -5,8 +5,9 @@ permalink: /posts/
 author_profile: true
 ---
 
-## Feb 28th, 2021 | [Model selection and Hodge's Problem](https://rflperry.github.io/posts/model_selection_hodges/)
+## Oct 12th, 2021 | [My Fulbright in Germany begins](https://rflperry.github.io/posts/fulbright_beginning/)
 
+## Feb 28th, 2021 | [Model selection and Hodge's Problem](https://rflperry.github.io/posts/model_selection_hodges/)
 
 ## Dec 31st, 2020 | [My 2020 Strava running year in review](https://rflperry.github.io/posts/2020_strava_year_in_review/)
 2020 was a good year for my running training and the first year I started using Strava. It was fun to look a bit deeper into the data they collect.
