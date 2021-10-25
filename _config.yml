@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ronan Perry"
   avatar           : "profile.png"
-  bio              : "Researcher of statistics, brains, and open-source software"
-  location         : "Baltimore, MD"
+  bio              : # "Researcher of statistics, brains, and open-source software"
+  location         : # "Baltimore, MD"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=8zN5mp0AAAAJ&hl=en"
   email            :
