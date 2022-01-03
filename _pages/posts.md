@@ -5,6 +5,9 @@ permalink: /posts/
 author_profile: true
 ---
 
+## Jan 3rd, 2022 | [Animating Strava route heatmaps](https://rflperry.github.io/posts/strava_heatmaps/)
+Check out the visualizations and try it out yourself!
+
 ## Oct 12th, 2021 | [My Fulbright in Germany begins](https://rflperry.github.io/posts/fulbright_beginning/)
 
 ## Feb 28th, 2021 | [Model selection and Hodge's Problem](https://rflperry.github.io/posts/model_selection_hodges/)
