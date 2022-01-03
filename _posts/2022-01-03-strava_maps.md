@@ -26,18 +26,16 @@ Here I highlight the evolution of my running routes in the four main places I've
 The Tuebingen map is unique in that it really does capture every single run I've done. I had done at least a couple of runs in the other cities before starting
 to use Strava.
 
-![gif](https://github.com/rflperry/strava_route_map/blob/main/outputs/tuebingen_heatmap.gif)
-
-<img src="https://github.com/rflperry/strava_route_map/blob/main/outputs/tuebingen_heatmap.gif" width="50%" height="50%" />
+![gif](/files/tuebingen_heatmap.gif)
 
 ## Baltimore
 
-<img src="https://github.com/rflperry/strava_route_map/blob/main/outputs/baltimore_heatmap.gif" width="50%" height="50%" />
+![gif](/files/baltimore_heatmap.gif)
 
 ## Ithaca
 
-<img src="https://github.com/rflperry/strava_route_map/blob/main/outputs/ithaca_heatmap.gif" width="50%" height="50%" />
+![gif](/files/ithaca_heatmap.gif)
 
 ## NYC (well, really just Manhattan)
 
-<img src="https://github.com/rflperry/strava_route_map/blob/main/outputs/nyc_heatmap.gif" width="50%" height="50%" />
+![gif](/files/nyc_heatmap.gif)
