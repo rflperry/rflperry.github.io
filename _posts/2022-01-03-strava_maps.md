@@ -1,5 +1,5 @@
 ---
-title: 'Animating Strava heatmaps
+title: 'Animating Strava heatmaps'
 date: 2022-01-03
 permalink: /posts/strava_heatmaps/
 tags:
@@ -20,7 +20,7 @@ been living in. The [code](https://github.com/rflperry/strava_route_map) is acce
 in downloading their data and generating similar visualizations!
 
 # My explorations
-Here I highlight the evolutions of my routes in the four main places I've lived since I started using Strava back in early 2020.
+Here I highlight the evolution of my running routes in the four main places I've lived since I started using Strava back in early 2020.
 
 ## Tuebingen
 The Tuebingen map is unique in that it really does capture every single run I've done. I had done at least a couple of runs in the other cities before starting
