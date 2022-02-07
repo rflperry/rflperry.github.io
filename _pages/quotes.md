@@ -12,7 +12,8 @@ A list of some of my favorite quotes and/or metaphors. I make no claims that the
 * "re-ran the tape" -Stephen Gould (in reference to a replay of evolution and life)
 * "Statisticians, like artists, have the bad habit of falling in love with their models." -- George Box
 * "The size of C is a compromise." -- CEP
-* "Consistency is the least we can ask for." -- B&D
+* "Consistency is the least we can ask for." -- Bickel and Doksum (on the topic of statistical tests)
 * “In theory, there is no difference between theory and practice. But in practice, there is.” -- Benjamin Brewster (not Einstein nor Yogi Berra)
 * "The bureaucracy is expanding, to meet the needs of of the expanding bureaucracy." -- Oscar Wilde
 * "At one time I asked how many Merkavas had been produced, and I was told that this information was classified. I found it amusing, because there was a serial number on each tank chassis." -- Colonel Trevor Dupuy
+* "When solving a problem of interest, do not solve a more general problem as an intermediate step." -- Vladimir Vapnik
