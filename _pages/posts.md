@@ -5,7 +5,7 @@ permalink: /posts/
 author_profile: true
 ---
 
-- Jan 03, 2022 | [Animating Strava route heatmaps](https://rflperry.github.io/posts/strava_heatmaps/)
+- Jan 03, 2022 \| [Animating Strava route heatmaps](https://rflperry.github.io/posts/strava_heatmaps/)
 
 - Oct 12, 2021 | [My Fulbright in Germany begins](https://rflperry.github.io/posts/fulbright_beginning/)
 
