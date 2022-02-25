@@ -17,3 +17,11 @@ Previously, I received my bachelors degree (Applied Math & Statistics, 2019) and
 My research concerned methods for data with certain structure (graphs, multilevel data, images/timeseries), nonparametric hypothesis testing applied to connectome data, calibrated random forests, and I led development of the first comprehensive Python library for machine learning on multiview data. 
 
 In my free time, I enjoy [running](https://www.strava.com/athletes/53839031), climbing, swing dancing, baking sourdough bread, board games, ultimate frisbee, and [reading](https://www.goodreads.com/user/show/107774777-rp).
+
+
+## News
+
+- **02/2022**  - My [Python package](https://github.com/neurodata/honest-forests) for honest decision trees and forests is now available and scikit-learn compliant.
+- **12/2021** - I serve as a volunteer at our Neurips [workshop](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21852) on out-of-distribution generalization.
+- **09/2021** - I have moved to Tübingen, Germany, to begin my Fulbright Fellowship with Bernhard Schölkopf.
+- **09/2021** - [Our paper](https://arxiv.org/abs/1907.00325) on the calibration of honest decision forests is now on arXiv.
