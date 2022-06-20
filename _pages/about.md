@@ -20,6 +20,7 @@ In my free time, I enjoy [running](https://www.strava.com/athletes/53839031), cl
 
 
 ## News
+- **06/2022** - Our paper "Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis" ([arxiv](https://arxiv.org/abs/2206.02013), [code](https://github.com/rflperry/sparse_shift)) is now available. The result of my Fulbright grant, in collaboration with Julius von Kügelgen and Bernhard Schölkopf at the Max Planck Institute in Tübingen.
 - **02/2022**  - My [Python package](https://github.com/neurodata/honest-forests) for honest decision trees and forests is now available and scikit-learn compliant.
 - **12/2021** - I serve as a volunteer at our Neurips [workshop](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21852) on out-of-distribution generalization.
 - **09/2021** - I have moved to Tübingen, Germany, to begin my Fulbright Fellowship with Bernhard Schölkopf.
