@@ -13,7 +13,7 @@ I am a PhD student in Statistics at the University of Washington.
 
 Previously, I was a researcher the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry), funded by a Fulbright Scholarship and hosted by Dr. Bernhard Schölkopf, where I studied causal discovery from multi-environment data.
 
-I received my bachelors degree (Applied Math & Statistics, 2019) and masters degree (Biomedical Engineering, 2020) from Johns Hopkins University where I was advised by Dr. Joshua Vogelstein in the [NeuroData Lab](https://neurodata.io/about). My research concerned random forests, hypothesis testing of fMRI data, the double descent phenomenon, and open source software development.
+I received a B.S. and M.S.E from Johns Hopkins University where I was advised by Dr. Joshua Vogelstein in the [NeuroData Lab](https://neurodata.io/about). My research concerned random forests, hypothesis testing of fMRI data, the double descent phenomenon, and open source software development.
 
 In my free time, I enjoy [running](https://www.strava.com/athletes/53839031), climbing, swing dancing, board games, ultimate frisbee, [reading](https://www.goodreads.com/user/show/107774777-rp), and of course [traveling](https://www.google.com/maps/d/edit?mid=1rdoCbZ2kjhfwcyMsHvNRME3xW_HYIkDj&usp=sharing).
 
