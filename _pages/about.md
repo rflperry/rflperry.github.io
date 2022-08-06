@@ -19,8 +19,9 @@ In my free time, I enjoy [running](https://www.strava.com/athletes/53839031), cl
 
 
 ## News
-- **06/2022** - Our paper "Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis" ([arxiv](https://arxiv.org/abs/2206.02013), [code](https://github.com/rflperry/sparse_shift)) is now available. The result of my Fulbright grant, in collaboration with Julius von Kügelgen and Bernhard Schölkopf at the Max Planck Institute in Tübingen.
+- **06/2022** - Our [paper](https://arxiv.org/abs/2206.02013) "Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis" ([code](https://github.com/rflperry/sparse_shift)) is now available. The result of my Fulbright grant, in collaboration with Julius von Kügelgen and Bernhard Schölkopf at the Max Planck Institute in Tübingen.
 - **02/2022**  - My [Python package](https://github.com/neurodata/honest-forests) for honest decision trees and forests is now available and scikit-learn compliant.
-- **12/2021** - I serve as a volunteer at our Neurips [workshop](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21852) on out-of-distribution generalization.
+- **12/2021** - I serve as a volunteer at our Neurips [workshop](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21852) on out-of-distribution generalization, organized by Johns Hopkins and Microsoft Research.
 - **09/2021** - I have moved to Tübingen, Germany, to begin my Fulbright Fellowship with Bernhard Schölkopf.
-- **09/2021** - [Our paper](https://arxiv.org/abs/1907.00325) on the calibration of honest decision forests is now on arXiv.
+- **09/2021** - Our [paper](https://arxiv.org/abs/1907.00325) on the calibration of random forests is now available.
+- **01/2021** - Our open source [Python package](https://www.jmlr.org/papers/volume22/20-1370/20-1370.pdf) has been published in the Journal of Machine Learning Research ([code](https://mvlearn.github.io/)).
