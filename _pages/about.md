@@ -19,6 +19,7 @@ Otherwise preoccupied with [running](https://www.strava.com/athletes/53839031), 
 
 
 ## News
+- **08/2022** - I have moved back to the U.S. to start my PhD in statistics at the University of Washington in Seattle.
 - **06/2022** - Our [paper](https://arxiv.org/abs/2206.02013) "Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis" ([code](https://github.com/rflperry/sparse_shift)) is now available. The result of my Fulbright grant, in collaboration with Julius von Kügelgen and Bernhard Schölkopf at the Max Planck Institute in Tübingen.
 - **02/2022**  - My [Python package](https://github.com/neurodata/honest-forests) for honest decision trees and forests is now available and scikit-learn compliant.
 - **12/2021** - I serve as a volunteer at our Neurips [workshop](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21852) on out-of-distribution generalization, organized by Johns Hopkins and Microsoft Research.
