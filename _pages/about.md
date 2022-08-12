@@ -11,7 +11,7 @@ redirect_from:
 
 PhD student in statistics at the University of Washington in Seattle.
 
-Previously a Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry), and researcher for Joshua Vogelstein in the [NeuroData Lab](https://neurodata.io/about). Earned a B.S. in Applied Mathematics & Statistics and M.S.E in Biomedical Data Science from Johns Hopkins University.
+Previously a Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry), and researcher for Joshua Vogelstein in the [NeuroData Lab](https://neurodata.io/about). B.S. in Applied Mathematics & Statistics and M.S.E in Biomedical Data Science from Johns Hopkins University.
 
 My work has focused on causal discovery, random forest methods, hypothesis testing with applications to neuroscience, and open source software development.
 
