@@ -9,13 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-**Current:** PhD student in Statistics at the University of Washington.
+PhD student in statistics at the University of Washington in Seattle.
 
-**Previous:** _(i)_ Researcher at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry), funded by a Fulbright Scholarship and hosted by Bernhard Schölkopf, studying machine learning for causal discovery. _(ii)_ Researcher and open source software developer in the [NeuroData Lab](https://neurodata.io/about), advised by Joshua Vogelstein, studying: random forests, hypothesis testing, neuroscience, and the double descent phenomenon.
+Previously a Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry), and researcher for Joshua Vogelstein in the [NeuroData Lab](https://neurodata.io/about). Earned a B.S. in Applied Mathematics & Statistics and M.S.E in Biomedical Data Science from Johns Hopkins University.
 
-**Education:** B.S. (Applied Mathematics & Statistics) and M.S.E (Biomedical Data Science) from Johns Hopkins University.
+My work has focused on causal discovery, random forest methods, hypothesis testing with applications to neuroscience, and open source software development.
 
-In my free time, I enjoy [running](https://www.strava.com/athletes/53839031), climbing, swing dancing, board games, ultimate frisbee, [reading](https://www.goodreads.com/user/show/107774777-rp), and of course [traveling](https://www.google.com/maps/d/edit?mid=1rdoCbZ2kjhfwcyMsHvNRME3xW_HYIkDj&usp=sharing).
+Otherwise preoccupied with [running](https://www.strava.com/athletes/53839031), climbing, swing dancing, board games, ultimate frisbee, [reading](https://www.goodreads.com/user/show/107774777-rp), and  [traveling](https://www.google.com/maps/d/edit?mid=1rdoCbZ2kjhfwcyMsHvNRME3xW_HYIkDj&usp=sharing).
 
 
 ## News
