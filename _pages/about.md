@@ -21,6 +21,8 @@ Otherwise preoccupied with [running](https://www.strava.com/athletes/53839031), 
 ## News
 - **09/2022** - ["Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis"](https://arxiv.org/abs/2206.02013)  
 accepted to **NeurIPS 2022**! Thanks to my wonderful mentors/co-authors at the MPI.
+- **08/2022** - Our paper ["Manifold Oblique Random Forests: Towards Closing the Gap on Convolutional Deep Networks
+"](https://arxiv.org/abs/1909.11799) accepted to SIMODS!
 - **08/2022** - I have moved back to the U.S. to start my PhD in statistics at the University of Washington in Seattle.
 - **06/2022** - Our [paper](https://arxiv.org/abs/2206.02013) "Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis" ([code](https://github.com/rflperry/sparse_shift)) is now available. The result of my Fulbright grant, in collaboration with Julius von Kügelgen and Bernhard Schölkopf at the Max Planck Institute in Tübingen.
 - **02/2022**  - My [Python package](https://github.com/neurodata/honest-forests) for honest decision trees and forests is now available and scikit-learn compliant.
