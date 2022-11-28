@@ -19,6 +19,7 @@ Otherwise preoccupied with [running](https://www.strava.com/athletes/53839031), 
 
 
 ## News
+- **11/2022** - Attending NeurIPS in-person to present my work from my time at the MPI! Feel free to reach out and stop by poster session 4.
 - **10/2022** - I gave an **invited workshop talk** about double descent and model complexity at the 2022 SIAM Conference on Mathematics of Data Science in San Diego.
 - **09/2022** - ["Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis"](https://arxiv.org/abs/2206.02013)  
 accepted to **NeurIPS 2022**! Thanks to my wonderful mentors/co-authors at the MPI.
