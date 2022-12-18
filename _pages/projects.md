@@ -45,7 +45,7 @@ Neuroscience collaborators wished to determine if there existed any differences 
 
 - [[Poster](https://github.com/rflperry/rflperry.github.io/blob/master/files/ohbm2020_poster_rperry.pdf), [code](https://github.com/neurodata/meditation)] Organization for Human Brain Mapping (OHBM), 2020
 - [[Talk](https://docs.google.com/presentation/d/1O5iyIBnDY2iTBMzJS9h0jSCjyFKd9wBkdYjLXCxhMHU/edit#slide=id.p)] Neuromatch 3.0, 2020
-- [[Methods paper](https://arxiv.org/abs/1910.08883)] Sambit Panda, Cencheng Shen, **Ronan Perry**, Jelle Zorn, Antoine Lutz, Carey E Priebe, and Joshua T Vogelstein. “Nonpar MANOVA via Independence Testing”. In: arXiv preprint arXiv:1910.08883 (2021).
+- [[Methods paper](https://arxiv.org/abs/1910.08883), [Github](https://github.com/neurodata/hyppo)] Sambit Panda, Cencheng Shen, **Ronan Perry**, Jelle Zorn, Antoine Lutz, Carey E Priebe, and Joshua T Vogelstein. “Nonpar MANOVA via Independence Testing”. In: arXiv preprint arXiv:1910.08883 (2021).
 
 As part of this project, we realized there was no existing reliable code for the multiview methods we needed to use. So, we developed an open-source Python package for multiview machine learning methods, featuring a unified API and easy integration with scikit-learn.
 
