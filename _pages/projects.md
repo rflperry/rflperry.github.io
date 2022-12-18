@@ -25,7 +25,7 @@ Causal graphs are typically identifiable only up to an equivalence class under i
 <!-- **Calibration: an empirical study and downstream applications** -->
 Posterior probabilities from machine learning classifies are typically overconfidant. We study multiple calibration approaches to the random forest classifier across OpenML-CC18 datasets, in particular honest random forests for which we provide multiclass consistency guarantees and applications to high-dimensional hypothesis testing via mutual information estimation.
 
-- [[Paper](https://arxiv.org/abs/1907.00325), [code](https://github.com/rflperry/ProgLearn/tree/UF/benchmarks/uf_experiments)] Ronan Perry, Ronak Mehta, Richard Guo, Eva Yezerets, Jesús Arroyo, Mike Powell, Hayden Helm, Cencheng Shen, and Joshua T Vogelstein. “Random Forests for Adaptive Nearest Neighbor Estimation of Information-Theoretic Quantities”. In: arXiv preprint arXiv:1907.00325 (2021).
+- [[Paper](https://arxiv.org/abs/1907.00325), [code](https://github.com/rflperry/ProgLearn/tree/UF/benchmarks/uf_experiments)] **Ronan Perry**, Ronak Mehta, Richard Guo, Eva Yezerets, Jesús Arroyo, Mike Powell, Hayden Helm, Cencheng Shen, and Joshua T Vogelstein. “Random Forests for Adaptive Nearest Neighbor Estimation of Information-Theoretic Quantities”. In: arXiv preprint arXiv:1907.00325 (2021).
 
 - [[Package](https://github.com/neurodata/honest-forests)] A scikit-learn compliant Python package for honest random forests.
 
@@ -34,7 +34,7 @@ Although random forest classifiers are extremely successful for tabular data, th
  
 <!--  **Extensions for structured data such as images and time series** -->
  
-- [[Paper](https://arxiv.org/abs/1909.11799), [code](https://github.com/neurodata/SPORF/tree/structured)] Adam Li, Ronan Perry, Chester Huynh, Tyler M. Tomita, Ronak Mehta, Jesus Arroyo, Jesse Patsolic, Benjamin Falk, and Joshua T. Vogelstein. “Manifold Oblique Random Forests: Towards Closing the Gap on Convolutional Deep Networks”. In: SIAM Journal on Mathematics of Data Science (SIMODS) (2022).
+- [[Paper](https://arxiv.org/abs/1909.11799), [code](https://github.com/neurodata/SPORF/tree/structured)] Adam Li, **Ronan Perry**, Chester Huynh, Tyler M. Tomita, Ronak Mehta, Jesus Arroyo, Jesse Patsolic, Benjamin Falk, and Joshua T. Vogelstein. “Manifold Oblique Random Forests: Towards Closing the Gap on Convolutional Deep Networks”. In: SIAM Journal on Mathematics of Data Science (SIMODS) (2022).
 
 
 ### fMRI data analyses
@@ -45,13 +45,13 @@ Neuroscience collaborators wished to determine if there existed any differences 
 
 - [[Poster](https://github.com/rflperry/rflperry.github.io/blob/master/files/ohbm2020_poster_rperry.pdf), [code](https://github.com/neurodata/meditation)] Organization for Human Brain Mapping (OHBM), 2020
 - [[Talk](https://docs.google.com/presentation/d/1O5iyIBnDY2iTBMzJS9h0jSCjyFKd9wBkdYjLXCxhMHU/edit#slide=id.p)] Neuromatch 3.0, 2020
-- [[Methods paper](https://arxiv.org/abs/1910.08883)] Sambit Panda, Cencheng Shen, Ronan Perry, Jelle Zorn, Antoine Lutz, Carey E Priebe, and Joshua T Vogelstein. “Nonpar MANOVA via Independence Testing”. In: arXiv preprint arXiv:1910.08883 (2021).
+- [[Methods paper](https://arxiv.org/abs/1910.08883)] Sambit Panda, Cencheng Shen, **Ronan Perry**, Jelle Zorn, Antoine Lutz, Carey E Priebe, and Joshua T Vogelstein. “Nonpar MANOVA via Independence Testing”. In: arXiv preprint arXiv:1910.08883 (2021).
 
 As part of this project, we realized there was no existing reliable code for the multiview methods we needed to use. So, we developed an open-source Python package for multiview machine learning methods, featuring a unified API and easy integration with scikit-learn.
 
 <!-- **Open source software** -->
 
-- [[Paper](https://www.jmlr.org/papers/v22/20-1370.html), [Webpage](https://mvlearn.github.io/index.html), [Github](https://github.com/NeuroDataDesign/multiview)] Ronan Perry, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, et al. “mvlearn: Multiview Machine Learning in Python”. In: Journal of Machine Learning Research 22.109 (2021), pp. 1–7.
+- [[Paper](https://www.jmlr.org/papers/v22/20-1370.html), [Webpage](https://mvlearn.github.io/index.html), [Github](https://github.com/NeuroDataDesign/multiview)] **Ronan Perry**, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, et al. “mvlearn: Multiview Machine Learning in Python”. In: Journal of Machine Learning Research 22.109 (2021), pp. 1–7.
 
 ### University projects
 
