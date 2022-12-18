@@ -10,7 +10,7 @@ author_profile: true
 
 ### Selective inference
 
-Inference on PCA does not account for selection of the embedding dimension on the basis of the eigenvalues (e.g. the elbow method), which leads to inflated false positive rates due to *double dipping*. We developed a selective inference approach to provide valid inference in such settings.
+Inference on PCA does not account for selection of the embedding dimension on the basis of the eigenvalues (e.g. the elbow method), which leads to inflated false positive rates. We develop a selective inference approach to provide valid inference in such settings.
 
 ## Prior work
 
