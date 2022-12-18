@@ -55,6 +55,6 @@ As part of this project, we realized there was no existing reliable code for the
 
 ### University projects
 
-Also, check out some of the [interesting projects](https://github.com/rflperry/projects/university) completed as part of my university classes.
+Also, check out some of the [interesting projects](https://rflperry.github.io/projects/university/) completed as part of my university classes.
 
 
