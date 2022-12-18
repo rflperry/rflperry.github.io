@@ -1,35 +1,62 @@
 ---
-title: "Projects"
+title: "Research Projects"
 layout: archive
 permalink: /projects/
 author_profile: true
 
 ---
 
-* ### ODE methods for epidemiological models with applications to COVID-19 ([Report](https://github.com/rflperry/553.738_final/blob/master/553_738_Final_Project.pdf) and [Github](https://github.com/rflperry/553.738_final))
+## Current work
 
-   Final project for JHU 553.738 High-dimensional Approximation, Probability, and Statistical Learning (Spring 2020).
+### Selective inference
 
-* ### A Multiview Learning Package in Python ([Webpage](https://mvlearn.github.io/index.html), [Paper](https://arxiv.org/abs/2005.11890), and [Github](https://github.com/NeuroDataDesign/multiview))
+Inference on PCA does not account for selection of the embedding dimension on the basis of the eigenvalues (e.g. the elbow method), which leads to inflated false positive rates due to *double dipping*. We developed a selective inference approach to provide valid inference in such settings.
 
-   Capstone design project for JHU 580.437/438 NeuroData Design (Fall 2019/Spring 2020).
+## Prior work
 
-* ### Solving the Shortest Common Superstring Problem via Deep Reinforcement Learning ([Report](/files/dldo_scsp_6-18.pdf) and [Github](https://github.com/rflperry/dl-scsp))
+### Causal discovery from multi-environment data
 
-  Final project for JUH 553.667 Deep Learning for Discrete Optimization (Spring 2019).
-  
-* ### Expert Defined versus Learned Dynamic Bayesian Networks for Inflation Prediction ([Report](/files/rperry27_PGM_Final_Project.pdf) and [Github](https://github.com/rflperry/pgm_final))
+Causal graphs are typically identifiable only up to an equivalence class under i.i.d. data. We prove non-parameteric identifiability from heterogeneous data with natural (unknown) distribution shifts if causal mechanism shfits are sparse.
 
-  Final project for JHU 601.476 Machine Learning: Data to Models (Spring 2019).
+- [[Paper](https://arxiv.org/abs/2206.02013), [code](https://github.com/rflperry/sparse_shift))] Ronan Perry, Julius von Kügelgen, and Bernhard Schölkopf. “Causal Discovery in Heterogeneous Environments under the Sparse Mechanism Shift Hypothesis”. In: Conference and Workshop on Neural Information Processing Systems (NeurIPS) (2022)
 
-* ### Linking the Caenorhabditis elegans nervous system neural connections and developmental history ([Report](/files/C__elegans_lineages.pdf))
-   
-   Semester project for JUH 580.438 NeuroData Design (Spring 2019).
+### Random forests
 
-* ### Yelp Dataset Challenge 2018 ([Report](https://rflperry.github.io/yelp_challenge2018/))
+<!-- **Calibration: an empirical study and downstream applications** -->
+Posterior probabilities from machine learning classifies are typically overconfidant. We study multiple calibration approaches to the random forest classifier across OpenML-CC18 datasets, in particular honest random forests for which we provide multiclass consistency guarantees and applications to high-dimensional hypothesis testing via mutual information estimation.
 
-    Final project for DTU 02805 Social Graphs and Interactions (Fall 2018).
-    
-* ### Probability in Epistemic Knowledge: an Application to the Monty Hall Problem ([Report](/files/fagin_halpern_monty_squib.pdf))
+- [[Paper](https://arxiv.org/abs/1907.00325), [code](https://github.com/rflperry/ProgLearn/tree/UF/benchmarks/uf_experiments)] Ronan Perry, Ronak Mehta, Richard Guo, Eva Yezerets, Jesús Arroyo, Mike Powell, Hayden Helm, Cencheng Shen, and Joshua T Vogelstein. “Random Forests for Adaptive Nearest Neighbor Estimation of Information-Theoretic Quantities”. In: arXiv preprint arXiv:1907.00325 (2021).
 
-    Final project for JHU 150.461 Philosophic Logic (Spring 2018).
+- [[Package](https://github.com/neurodata/honest-forests)] A scikit-learn compliant Python package for honest random forests.
+
+Although random forest classifiers are extremely successful for tabular data, they are not state of the art for structured data. We develop a random forest algorithm better-suited for such data as images and time series by using structured projections of features which take into account the data geometry.
+
+ 
+<!--  **Extensions for structured data such as images and time series** -->
+ 
+- [[Paper](https://arxiv.org/abs/1909.11799), [code](https://github.com/neurodata/SPORF/tree/structured)] Adam Li, Ronan Perry, Chester Huynh, Tyler M. Tomita, Ronak Mehta, Jesus Arroyo, Jesse Patsolic, Benjamin Falk, and Joshua T. Vogelstein. “Manifold Oblique Random Forests: Towards Closing the Gap on Convolutional Deep Networks”. In: SIAM Journal on Mathematics of Data Science (SIMODS) (2022).
+
+
+### fMRI data analyses
+
+Neuroscience collaborators wished to determine if there existed any differences between novice and expert meditators across meditation tasks and resting state. We provided (i) computationally efficient dimensionality reduction approaches via generalized CCA to reduce the spatial time series to interpretable spatial gradients (ii) high dimensional distance correlation hypothesis tests with novel permutation strategies to account for multilevel implicit dependencies between scans of the same subject.
+
+<!-- **Dimensionality reduction and hypothesis testing** -->
+
+- [[Poster](https://github.com/rflperry/rflperry.github.io/blob/master/files/ohbm2020_poster_rperry.pdf), [code](https://github.com/neurodata/meditation)] Organization for Human Brain Mapping (OHBM), 2020
+- [[Talk](https://docs.google.com/presentation/d/1O5iyIBnDY2iTBMzJS9h0jSCjyFKd9wBkdYjLXCxhMHU/edit#slide=id.p)] Neuromatch 3.0, 2020
+- [[Methods paper](https://arxiv.org/abs/1910.08883)] Sambit Panda, Cencheng Shen, Ronan Perry, Jelle Zorn, Antoine Lutz, Carey E Priebe, and Joshua T Vogelstein. “Nonpar MANOVA via Independence Testing”. In: arXiv preprint arXiv:1910.08883 (2021).
+
+As part of this project, we realized there was no existing reliable code for the multiview methods we needed to use. So, we developed an open-source Python package for multiview machine learning methods, featuring a unified API and easy integration with scikit-learn.
+
+<!-- **Open source software** -->
+
+- [[Software paper](https://www.jmlr.org/papers/v22/20-1370.html)] Ronan Perry, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, et al. “mvlearn: Multiview Machine Learning in Python”. In: Journal of Machine Learning Research 22.109 (2021), pp. 1–7.
+- [[Webpage](https://mvlearn.github.io/index.html)]
+- [Github](https://github.com/NeuroDataDesign/multiview))
+
+### University projects
+
+Also, check out some of the ([interesting projects](https://github.com/rflperry/projects/university)) completed as part of my university classes.
+
+
