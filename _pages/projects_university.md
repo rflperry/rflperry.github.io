@@ -1,7 +1,7 @@
 ---
-title: "Projects"
+title: "University projects"
 layout: archive
-permalink: /projects/classes
+permalink: /projects/university
 author_profile: true
 
 ---
