@@ -51,12 +51,10 @@ As part of this project, we realized there was no existing reliable code for the
 
 <!-- **Open source software** -->
 
-- [[Software paper](https://www.jmlr.org/papers/v22/20-1370.html)] Ronan Perry, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, et al. “mvlearn: Multiview Machine Learning in Python”. In: Journal of Machine Learning Research 22.109 (2021), pp. 1–7.
-- [[Webpage](https://mvlearn.github.io/index.html)]
-- [Github](https://github.com/NeuroDataDesign/multiview))
+- [[Paper](https://www.jmlr.org/papers/v22/20-1370.html), [Webpage](https://mvlearn.github.io/index.html), [Github](https://github.com/NeuroDataDesign/multiview)] Ronan Perry, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, et al. “mvlearn: Multiview Machine Learning in Python”. In: Journal of Machine Learning Research 22.109 (2021), pp. 1–7.
 
 ### University projects
 
-Also, check out some of the ([interesting projects](https://github.com/rflperry/projects/university)) completed as part of my university classes.
+Also, check out some of the [interesting projects](https://github.com/rflperry/projects/university) completed as part of my university classes.
 
 
