@@ -200,14 +200,14 @@ defaults:
       share: false
       related: false
   # _teaching
-#   - scope:
-#       path: ""
-#       type: teaching
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: false
-#       comments: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
   # _publications
 #   - scope:
 #       path: ""
