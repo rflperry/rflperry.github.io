@@ -18,7 +18,7 @@ Inference on PCA does not account for selection of the embedding dimension on th
 
 Causal graphs are typically identifiable only up to an equivalence class under i.i.d. data. We prove non-parameteric identifiability from heterogeneous data with natural (unknown) distribution shifts if causal mechanism shfits are sparse.
 
-- [[Paper](https://arxiv.org/abs/2206.02013), [code](https://github.com/rflperry/sparse_shift))] Ronan Perry, Julius von Kügelgen, and Bernhard Schölkopf. “Causal Discovery in Heterogeneous Environments under the Sparse Mechanism Shift Hypothesis”. In: Conference and Workshop on Neural Information Processing Systems (NeurIPS) (2022)
+- [[Paper](https://arxiv.org/abs/2206.02013), [code](https://github.com/rflperry/sparse_shift)] Ronan Perry, Julius von Kügelgen, and Bernhard Schölkopf. “Causal Discovery in Heterogeneous Environments under the Sparse Mechanism Shift Hypothesis”. In: Conference and Workshop on Neural Information Processing Systems (NeurIPS) (2022)
 
 ### Random forests
 
