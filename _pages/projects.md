@@ -39,7 +39,7 @@ Although random forest classifiers are extremely successful for tabular data, th
 
 ### fMRI data analyses
 
-Neuroscience collaborators wished to determine if there existed any differences between novice and expert meditators across meditation tasks and resting state. We provided (i) computationally efficient dimensionality reduction approaches via generalized CCA to reduce the spatial time series to interpretable spatial gradients (ii) high dimensional distance correlation hypothesis tests with novel permutation strategies to account for multilevel implicit dependencies between scans of the same subject.
+Neuroscience collaborators wished to determine if there existed any differences between novice and expert meditators across meditation tasks and resting state. We provided (i) computationally efficient dimensionality reduction approaches via generalized CCA to reduce the spatial time series to interpretable spatial gradients (ii) high dimensional distance correlation hypothesis tests with novel permutation strategies to account for implicit multilevel dependencies between scans of the same subject.
 
 <!-- **Dimensionality reduction and hypothesis testing** -->
 
