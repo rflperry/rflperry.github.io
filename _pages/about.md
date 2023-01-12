@@ -11,10 +11,7 @@ redirect_from:
 
 PhD student in statistics at the University of Washington in Seattle; currently working on selective inference with Daniela Witten.
 
-Previously:
-- Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry).
-- Researcher for Joshua Vogelstein in the [NeuroData Lab](https://neurodata.io/about).
-- M.S.E in Biomedical Data Science and B.S. in Applied Mathematics & Statistics from Johns Hopkins University.
+Previously a Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry), and researcher for Joshua Vogelstein in the [NeuroData Lab](https://neurodata.io/about). M.S.E in Biomedical Data Science and B.S. in Applied Mathematics & Statistics from Johns Hopkins University.
 
 My work has focused on causal discovery, random forests, network science, longitudinal hypothesis testing for neuroscience, and open source software development.
 
