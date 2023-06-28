@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in statistics at the University of Washington in Seattle; currently working on selective inference with Daniela Witten.
+PhD student in statistics at the University of Washington in Seattle, advised by Daniela Witten. Currently an Applied Science Intern at LinkedIn.
 
 Previously a Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry), and researcher for Joshua Vogelstein in the [NeuroData Lab](https://neurodata.io/about). M.S.E in Biomedical Data Science and B.S. in Applied Mathematics & Statistics from Johns Hopkins University.
 
@@ -19,6 +19,7 @@ Otherwise preoccupied with [running](https://www.strava.com/athletes/53839031), 
 
 
 ## News
+- **06/2023** - I started my **internship** at LinkedIn as an Applied Science Intern for the summer of 2023.
 - **10/2022** - I gave an **invited workshop talk** about double descent and model complexity at the 2022 SIAM Conference on Mathematics of Data Science in San Diego.
 - **09/2022** - ["Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis"](https://arxiv.org/abs/2206.02013)  
 accepted to **NeurIPS 2022**! Thanks to my wonderful mentors/co-authors at the MPI.
