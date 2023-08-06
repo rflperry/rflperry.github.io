@@ -19,4 +19,4 @@ A list of some of my favorite quotes and/or metaphors. I make no claims that the
 * "When solving a problem of interest, do not solve a more general problem as an intermediate step." -- Vladimir Vapnik
 * "a private library is not an ego-boosting appendage but a research tool. Read books are far less valuable than unread ones ... Indeed, the more you know, the larger the rows of unread books. Let us call this collection of unread books an antilibrary." -- Nassim Taleb (from The Black Swan)
 * "Think of my edits as stochastic gradient descent, the key word is stochastic." -- DW
-* * "The freedom to lead and plan your own life is frightening if you have never faced it before." -- Friedan (A New Life Plan for Women, as quoted in The Free World)
+* "The freedom to lead and plan your own life is frightening if you have never faced it before." -- Friedan (A New Life Plan for Women, as quoted in The Free World)
