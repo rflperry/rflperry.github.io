@@ -15,7 +15,7 @@ Previously a Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empir
 
 My work has focused on causal discovery, random forests, network science, longitudinal hypothesis testing for neuroscience, and open source software development.
 
-Otherwise preoccupied with [running](https://www.strava.com/athletes/53839031), climbing, swing dancing, board games, ultimate frisbee, [reading](https://www.goodreads.com/user/show/107774777-rp), and  [traveling](https://www.google.com/maps/d/edit?mid=1rdoCbZ2kjhfwcyMsHvNRME3xW_HYIkDj&usp=sharing).
+Otherwise preoccupied with (long-distance) [running/biking](https://www.strava.com/athletes/53839031), swing/ling dancing, board games, ultimate frisbee, [reading](https://www.goodreads.com/user/show/107774777-rp), and  [traveling](https://www.google.com/maps/d/edit?mid=1rdoCbZ2kjhfwcyMsHvNRME3xW_HYIkDj&usp=sharing).
 
 
 ## News
