@@ -19,6 +19,7 @@ Otherwise preoccupied with (long-distance) [running/biking](https://www.strava.c
 
 
 ## News
+- **08/2024** - Our preprint "[Infer-and-widen versus split-and-condition: two tales of selective inference](https://arxiv.org/abs/2408.06323)" is now on arXiv!
 - **02/2024** - Our preprint "[Inference on the proportion of variance explained in principal component analysis](https://arxiv.org/abs/2402.16725)" is now on arXiv!
 - **06/2023** - I started my **internship** at LinkedIn as an Applied Science Intern for the summer of 2023.
 - **10/2022** - I gave an **invited workshop talk** about double descent and model complexity at the 2022 SIAM Conference on Mathematics of Data Science in San Diego.
