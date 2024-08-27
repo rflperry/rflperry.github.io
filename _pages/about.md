@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in statistics at the University of Washington in Seattle, advised by Daniela Witten.
+PhD student in statistics at the University of Washington in Seattle, working with Daniela Witten.
 
 Previously a Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry), and researcher for Joshua Vogelstein in the [NeuroData Lab](https://neurodata.io/about). M.S.E in Biomedical Data Science and B.S. in Applied Mathematics & Statistics from Johns Hopkins University.
 
