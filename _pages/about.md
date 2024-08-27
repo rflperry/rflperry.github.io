@@ -19,6 +19,7 @@ Otherwise preoccupied with (long-distance) [running/biking](https://www.strava.c
 
 
 ## News
+- **08/2024** - Our preprint "[On the minimum strength of (unobserved) covariates to overturn an insignificant result](https://arxiv.org/abs/2408.13901)" is now on arXiv!
 - **08/2024** - Our preprint "[Infer-and-widen versus split-and-condition: two tales of selective inference](https://arxiv.org/abs/2408.06323)" is now on arXiv!
 - **02/2024** - Our preprint "[Inference on the proportion of variance explained in principal component analysis](https://arxiv.org/abs/2402.16725)" is now on arXiv!
 - **06/2023** - I started my **internship** at LinkedIn as an Applied Science Intern for the summer of 2023.
