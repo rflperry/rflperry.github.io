@@ -15,7 +15,8 @@ Previously a Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empir
 
 My work has focused on selective inference, causal discovery, large language models, inference on network/temporal data, and open source software development.
 
-Otherwise preoccupied with (long-distance) cardio, dancing, board games, reading, and  [traveling](https://www.google.com/maps/d/edit?mid=1rdoCbZ2kjhfwcyMsHvNRME3xW_HYIkDj&usp=sharing).
+Otherwise preoccupied with (long-distance) cardio, dancing, board games, reading, and traveling.
+<!--- [traveling](https://www.google.com/maps/d/edit?mid=1rdoCbZ2kjhfwcyMsHvNRME3xW_HYIkDj&usp=sharing). --->
 
 
 ## News
