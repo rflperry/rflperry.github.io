@@ -189,16 +189,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: false
-      related: false
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: false
+  #     related: false
   # _teaching
 #   - scope:
 #       path: ""
@@ -218,14 +218,14 @@ defaults:
 #       share: false
 #       comments: true
   # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: default
-      author_profile: true
-      share: false
-      comment: false
+  # - scope:
+  #     path: ""
+  #     type: projects
+  #   values:
+  #     layout: default
+  #     author_profile: true
+  #     share: false
+  #     comment: false
   # _talks
 #   - scope:
 #       path: ""
