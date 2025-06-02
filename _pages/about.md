@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in statistics at the University of Washington in Seattle, working with Daniela Witten on problems in selective inference.
+PhD student in statistics at the University of Washington in Seattle, advised by Daniela Witten on problems in selective inference.
 
 Previously:
 - Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry)
