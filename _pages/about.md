@@ -24,6 +24,7 @@ Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, 
 
 
 ## News
+- **06/2025** - "[Inference on the proportion of variance explained in principal component analysis](https://arxiv.org/abs/2402.16725)" has been accepted to JASA!
 - **06/2025** - I passed my General Exam and am now a PhD Candidate!
 - **08/2024** - Our preprint "[On the minimum strength of (unobserved) covariates to overturn an insignificant result](https://arxiv.org/abs/2408.13901)" is now on arXiv!
 - **08/2024** - Our preprint "[Infer-and-widen versus split-and-condition: two tales of selective inference](https://arxiv.org/abs/2408.06323)" is now on arXiv!
