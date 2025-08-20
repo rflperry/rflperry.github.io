@@ -1,10 +1,10 @@
 # main links links
 main:
-  # - title: "Research"
-  #   url: /projects/
+  - title: "Research"
+    url: /projects/
     
-  # - title: "Posts"
-  #   url: /posts/
+  - title: "Posts"
+    url: /posts/
     
   - title: "CV"
     url: /files/Ronan_Perry_CV.pdf
