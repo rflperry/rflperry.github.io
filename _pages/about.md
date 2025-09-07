@@ -9,13 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in statistics at the University of Washington in Seattle, advised by Daniela Witten. My current work focuses on valid inference after data-driven model/hypothesis selection. Previous work has been on causal discovery, inference on network/temporal data, multitask fine-tuning of LLMs, and open source software development.
-
+PhD student in statistics at the University of Washington in Seattle, advised by Daniela Witten. My current work focuses on valid inference after data-driven model/hypothesis selection. 
 
 Previously:
 - Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry)
 - Research Scientist and M.S. with Joshua Vogelstein in the [NeuroData Lab](https://neurodata.io/about).
 - B.S. in Applied Mathematics & Statistics from Johns Hopkins University.
+
+Previous work has been on causal discovery, inference on network/temporal data, multitask fine-tuning of LLMs, and open source software development.
 
 <!---
 Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, reading, and traveling.
