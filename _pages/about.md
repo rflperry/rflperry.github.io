@@ -24,6 +24,7 @@ Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, 
 
 
 ## News
+- **09/2025** I am an invited speaker in a workshop hosted by the RIKEN Center for Advanced Intelligence Project in Tokyo on the 19th.
 - **09/2025** I have been awarded an [Amazon AI PhD Fellowship](https://stat.uw.edu/news-resources/articles/ronan-perry-receives-amazon-ai-phd-fellowship)!
 - **08/2025** - "[On the minimum strength of (unobserved) covariates to overturn an insignificant result]([https://arxiv.org/abs/2408.13901](https://imstat.org/journals-and-publications/statistical-science/statistical-science-future-papers/))" has been accepted to **Statistical Science**!
 - **06/2025** - "[Inference on the proportion of variance explained in principal component analysis](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2538895)" has been accepted to **JASA**!
