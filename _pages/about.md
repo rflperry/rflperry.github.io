@@ -24,7 +24,8 @@ Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, 
 
 
 ## News
-- **09/2025** I am giving an invited talk at the RIKEN [Workshop on Trustable Data-Driven Science](https://aip.riken.jp/events/event_189636/) in Tokyo on the 19th.
+- **12/2025** I will be presenting my work on asymptotic score thinning at the 2025 ICSDS conference in Seville!
+- **09/2025** I am giving an invited talk at the RIKEN [Workshop on Trustable Data-Driven Science](https://aip.riken.jp/events/event_189636/) in Tokyo on the 19th on asymptotic data thinning. See my talk [here](https://youtu.be/_MHpAaM22QY?si=JCDuCtdEKIzlRrkx&t=2710).
 - **09/2025** I have been awarded an [Amazon AI PhD Fellowship](https://stat.uw.edu/news-resources/articles/ronan-perry-receives-amazon-ai-phd-fellowship)!
 - **08/2025** - "[On the minimum strength of (unobserved) covariates to overturn an insignificant result]([https://arxiv.org/abs/2408.13901](https://imstat.org/journals-and-publications/statistical-science/statistical-science-future-papers/))" has been accepted to **Statistical Science**!
 - **06/2025** - "[Inference on the proportion of variance explained in principal component analysis](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2538895)" has been accepted to **JASA**!
