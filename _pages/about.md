@@ -24,6 +24,7 @@ Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, 
 
 
 ## News
+- **01/2025** Our preprint "[Post-selection inference for penalized M-estimators via score thinning](https://arxiv.org/abs/2601.13514)" is now on arXiv! This work has been a long time coming and uses novel Berry-Esseen-type bounds to show the asymptotic validitiy of data thinning for a class of useful problems.
 - **12/2025** I will be presenting my work on asymptotic score thinning at the 2025 ICSDS conference in Seville!
 - **09/2025** I am giving an invited talk at the RIKEN [Workshop on Trustable Data-Driven Science](https://aip.riken.jp/events/event_189636/) in Tokyo on the 19th on asymptotic data thinning. See my talk [here](https://youtu.be/_MHpAaM22QY?si=JCDuCtdEKIzlRrkx&t=2710).
 - **09/2025** I have been awarded an [Amazon AI PhD Fellowship](https://stat.uw.edu/news-resources/articles/ronan-perry-receives-amazon-ai-phd-fellowship)!
