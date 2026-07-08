@@ -9,21 +9,21 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in statistics at the University of Washington in Seattle, advised by Daniela Witten. My current work and interests focus on uncertainty quantification after data-driven model/hypothesis selection.
+PhD student in statistics at the University of Washington in Seattle, advised by Daniela Witten. Currently working on uncertainty quantification after data-driven model/hypothesis selection.
 
 Previously:
 - Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry)
 - Research Scientist and M.S. with Joshua Vogelstein in the [NeuroData Lab](https://neurodata.io/about).
 - B.S. in Applied Mathematics & Statistics from Johns Hopkins University.
 
-Previous work has been on causal discovery, inference on network/temporal data, calibration, multitask fine-tuning of LLMs, and open source software development.
-
 <!---
+Previous work has been on causal discovery, inference on network/temporal data, calibration, multitask fine-tuning of LLMs, and open source software development. 
+
 Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, reading, and traveling.
  [traveling](https://www.google.com/maps/d/edit?mid=1rdoCbZ2kjhfwcyMsHvNRME3xW_HYIkDj&usp=sharing). --->
 
 
-## News
+## Recent updates
 - **04/2026** Our invited review paper "[Inference conditional on selection: a review](https://arxiv.org/abs/2604.09779)" is now on arXiv! We argue for conditional guarantees and provide a unifying perspective on strategies to obtain them.
 - **01/2025** Our preprint "[Post-selection inference for penalized M-estimators via score thinning](https://arxiv.org/abs/2601.13514)" is now on arXiv! I am particularly excited by this work as it presents novel Berry-Esseen-type bounds and general, simple-to-implement methodology ([see code](https://github.com/rflperry/m_estimation_SI)).
 - **12/2025** I will be presenting my work on asymptotic score thinning at the 2025 ICSDS conference in Seville!
@@ -31,6 +31,7 @@ Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, 
 - **09/2025** I have been awarded an [Amazon AI PhD Fellowship](https://stat.uw.edu/news-resources/articles/ronan-perry-receives-amazon-ai-phd-fellowship)!
 - **08/2025** - "[On the minimum strength of (unobserved) covariates to overturn an insignificant result](https://arxiv.org/abs/2408.13901)" has been accepted to **Statistical Science**!
 - **06/2025** - "[Inference on the proportion of variance explained in principal component analysis](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2538895)" has been accepted to **JASA**!
+<!--
 - **06/2025** - I passed my General Exam and am now a PhD Candidate!
 - **08/2024** - Our preprint "[On the minimum strength of (unobserved) covariates to overturn an insignificant result](https://arxiv.org/abs/2408.13901)" is now on arXiv!
 - **08/2024** - Our preprint "[Infer-and-widen versus split-and-condition: two tales of selective inference](https://arxiv.org/abs/2408.06323)" is now on arXiv!
@@ -41,9 +42,9 @@ Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, 
 accepted to **NeurIPS 2022**! Thanks to my wonderful mentors/co-authors at the MPI.
 - **08/2022** - Our paper ["Manifold Oblique Random Forests: Towards Closing the Gap on Convolutional Deep Networks"](https://arxiv.org/abs/1909.11799) accepted to **SIMODS**!
 - **08/2022** - I have moved back to the U.S. to start my PhD in statistics at the University of Washington in Seattle.
-<!-- - **06/2022** - Our [paper](https://arxiv.org/abs/2206.02013) "Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis" ([code](https://github.com/rflperry/sparse_shift)) is now available. The result of my Fulbright grant, in collaboration with Julius von Kügelgen and Bernhard Schölkopf at the Max Planck Institute in Tübingen. -->
-<!-- - **02/2022**  - My [Python package](https://github.com/neurodata/honest-forests) for honest decision trees and forests is now available and scikit-learn compliant. -->
-<!-- - **12/2021** - I serve as a volunteer at our Neurips [workshop](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21852) on out-of-distribution generalization, organized by Johns Hopkins and Microsoft Research. -->
+- **06/2022** - Our [paper](https://arxiv.org/abs/2206.02013) "Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis" ([code](https://github.com/rflperry/sparse_shift)) is now available. The result of my Fulbright grant, in collaboration with Julius von Kügelgen and Bernhard Schölkopf at the Max Planck Institute in Tübingen.
+- **02/2022**  - My [Python package](https://github.com/neurodata/honest-forests) for honest decision trees and forests is now available and scikit-learn compliant.
+- **12/2021** - I serve as a volunteer at our Neurips [workshop](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21852) on out-of-distribution generalization, organized by Johns Hopkins and Microsoft Research.
 - **09/2021** - I have moved to Tübingen, Germany, to begin my Fulbright Fellowship with Bernhard Schölkopf at the MPI.
 - **09/2021** - Our [paper](https://arxiv.org/abs/1907.00325) on the calibration of random forests is now available.
-- **01/2021** - Our open source [Python package](https://www.jmlr.org/papers/volume22/20-1370/20-1370.pdf) has been published in the Journal of Machine Learning Research ([code](https://mvlearn.github.io/)).
+- **01/2021** - Our open source [Python package](https://www.jmlr.org/papers/volume22/20-1370/20-1370.pdf) has been published in the Journal of Machine Learning Research ([code](https://mvlearn.github.io/)). -->
