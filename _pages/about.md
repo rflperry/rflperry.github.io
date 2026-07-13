@@ -31,7 +31,8 @@ Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, 
 - **09/2025** I have been awarded an [Amazon AI PhD Fellowship](https://stat.uw.edu/news-resources/articles/ronan-perry-receives-amazon-ai-phd-fellowship)!
 - **08/2025** - "[On the minimum strength of (unobserved) covariates to overturn an insignificant result](https://arxiv.org/abs/2408.13901)" has been accepted to **Statistical Science**!
 - **06/2025** - "[Inference on the proportion of variance explained in principal component analysis](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2538895)" has been accepted to **JASA**!
-<!--
+
+<!---
 - **06/2025** - I passed my General Exam and am now a PhD Candidate!
 - **08/2024** - Our preprint "[On the minimum strength of (unobserved) covariates to overturn an insignificant result](https://arxiv.org/abs/2408.13901)" is now on arXiv!
 - **08/2024** - Our preprint "[Infer-and-widen versus split-and-condition: two tales of selective inference](https://arxiv.org/abs/2408.06323)" is now on arXiv!
@@ -47,4 +48,4 @@ accepted to **NeurIPS 2022**! Thanks to my wonderful mentors/co-authors at the M
 - **12/2021** - I serve as a volunteer at our Neurips [workshop](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21852) on out-of-distribution generalization, organized by Johns Hopkins and Microsoft Research.
 - **09/2021** - I have moved to Tübingen, Germany, to begin my Fulbright Fellowship with Bernhard Schölkopf at the MPI.
 - **09/2021** - Our [paper](https://arxiv.org/abs/1907.00325) on the calibration of random forests is now available.
-- **01/2021** - Our open source [Python package](https://www.jmlr.org/papers/volume22/20-1370/20-1370.pdf) has been published in the Journal of Machine Learning Research ([code](https://mvlearn.github.io/)). -->
+- **01/2021** - Our open source [Python package](https://www.jmlr.org/papers/volume22/20-1370/20-1370.pdf) has been published in the Journal of Machine Learning Research ([code](https://mvlearn.github.io/)). --->
