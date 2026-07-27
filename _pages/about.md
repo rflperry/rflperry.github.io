@@ -25,7 +25,7 @@ Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, 
 
 ## Recent updates
 - **04/2026** Our invited review paper "[Inference conditional on selection: a review](https://arxiv.org/abs/2604.09779)" is now on arXiv! We argue for conditional guarantees and provide a unifying perspective on strategies to obtain them.
-- **01/2025** Our preprint "[Post-selection inference for penalized M-estimators via score thinning](https://arxiv.org/abs/2601.13514)" is now on arXiv! I am particularly excited by this work as it presents novel Berry-Esseen-type bounds and general, simple-to-implement methodology ([see code](https://github.com/rflperry/m_estimation_SI)).
+- **01/2026** Our preprint "[Post-selection inference for penalized M-estimators via score thinning](https://arxiv.org/abs/2601.13514)" is now on arXiv! I am particularly excited by this work as it presents novel Berry-Esseen-type bounds and general, simple-to-implement methodology ([see code](https://github.com/rflperry/m_estimation_SI)).
 - **12/2025** I will be presenting my work on asymptotic score thinning at the 2025 ICSDS conference in Seville!
 - **09/2025** I am giving an invited talk at the RIKEN [Workshop on Trustable Data-Driven Science](https://aip.riken.jp/events/event_189636/) in Tokyo on the 19th on asymptotic data thinning. See my talk [here](https://youtu.be/_MHpAaM22QY?si=JCDuCtdEKIzlRrkx&t=2710).
 - **09/2025** I have been awarded an [Amazon AI PhD Fellowship](https://stat.uw.edu/news-resources/articles/ronan-perry-receives-amazon-ai-phd-fellowship)!
