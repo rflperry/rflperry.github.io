@@ -24,6 +24,7 @@ Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, 
 
 
 ## Recent updates
+- **09/2026** I have begun an internship with the Amazon Weblab team in Seattle, working to improve large scale experimentation!
 - **04/2026** Our invited review paper "[Inference conditional on selection: a review](https://arxiv.org/abs/2604.09779)" is now on arXiv! We argue for conditional guarantees and provide a unifying perspective on strategies to obtain them.
 - **01/2026** Our preprint "[Post-selection inference for penalized M-estimators via score thinning](https://arxiv.org/abs/2601.13514)" is now on arXiv! I am particularly excited by this work as it presents novel Berry-Esseen-type bounds and general, simple-to-implement methodology ([see code](https://github.com/rflperry/m_estimation_SI)).
 - **12/2025** I will be presenting my work on asymptotic score thinning at the 2025 ICSDS conference in Seville!
