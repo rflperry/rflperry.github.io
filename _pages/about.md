@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in statistics at the University of Washington, advised by Daniela Witten, and Amazon A.I. Fellow. Currently working on uncertainty quantification after data-driven model/hypothesis selection.
+PhD student in statistics at the University of Washington, advised by Daniela Witten, and an Amazon A.I. Fellow. Currently working on uncertainty quantification after data-driven model/hypothesis selection and large-scale experimentation.
 
 Previously:
 - Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry)
