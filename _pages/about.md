@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in statistics at the University of Washington in Seattle, advised by Daniela Witten. Currently working on uncertainty quantification after data-driven model/hypothesis selection.
+PhD student in statistics at the University of Washington, advised by Daniela Witten, and Amazon A.I. Fellow. Currently working on uncertainty quantification after data-driven model/hypothesis selection.
 
 Previously:
 - Fulbright scholar with Bernhard Schölkopf at the [Max Planck Empirical Inference Department](https://is.mpg.de/employees/rperry)
@@ -24,8 +24,10 @@ Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, 
 
 
 ## Recent updates
+- **10/2026** "[Infer-and-widen, or not?](https://arxiv.org/abs/2408.06323)" has been accepted for publication at Statistical Science!
 - **09/2026** I have begun an internship with the Amazon Weblab team in Seattle, working to improve large scale experimentation!
-- **04/2026** Our invited review paper "[Inference conditional on selection: a review](https://arxiv.org/abs/2604.09779)" is now on arXiv! We argue for conditional guarantees and provide a unifying perspective on strategies to obtain them.
+- **04/2026** Our invited review paper "[Inference conditional on selection: a review](https://arxiv.org/abs/2604.09779)" will appear in the Annual
+Review of Statistics and Its Application! We argue for conditional guarantees and provide a unifying perspective on strategies to obtain them.
 - **01/2026** Our preprint "[Post-selection inference for penalized M-estimators via score thinning](https://arxiv.org/abs/2601.13514)" is now on arXiv! I am particularly excited by this work as it presents novel Berry-Esseen-type bounds and general, simple-to-implement methodology ([see code](https://github.com/rflperry/m_estimation_SI)).
 - **12/2025** I will be presenting my work on asymptotic score thinning at the 2025 ICSDS conference in Seville!
 - **09/2025** I am giving an invited talk at the RIKEN [Workshop on Trustable Data-Driven Science](https://aip.riken.jp/events/event_189636/) in Tokyo on asymptotic data thinning. See my talk [here](https://youtu.be/_MHpAaM22QY?si=JCDuCtdEKIzlRrkx&t=2710).
