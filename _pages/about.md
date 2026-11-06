@@ -24,6 +24,7 @@ Otherwise preoccupied with (long-distance) cardio sports, dancing, board games, 
 
 
 ## Recent updates
+- **11/2026** Our preprint "[Inference after selection on randomized p-values](https://arxiv.org/abs/2611.07459)" is now on arXiv!
 - **10/2026** "[Infer-and-widen, or not?](https://arxiv.org/abs/2408.06323)" has been accepted for publication at Statistical Science!
 - **09/2026** I have begun an internship with the Amazon Weblab team in Seattle, working to improve large scale experimentation!
 - **04/2026** Our invited review paper "[Inference conditional on selection: a review](https://arxiv.org/abs/2604.09779)" will appear in the Annual
